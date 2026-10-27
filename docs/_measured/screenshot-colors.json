@@ -1,0 +1,1067 @@
+{
+  "dims": {
+    "create-empty.png": [
+      1308,
+      716
+    ],
+    "create-filled.png": [
+      1306,
+      716
+    ],
+    "create-submit.png": [
+      1309,
+      761
+    ],
+    "company-page.png": [
+      1309,
+      718
+    ],
+    "company-loading.png": [
+      1309,
+      713
+    ],
+    "create-messaging.png": [
+      1306,
+      717
+    ]
+  },
+  "results": [
+    {
+      "file": "create-empty.png",
+      "label": "app canvas (right of preview)",
+      "mode": "solid",
+      "patch": [
+        700,
+        600,
+        120,
+        60
+      ],
+      "dim": [
+        1308,
+        716
+      ],
+      "hex": "#dfeef5",
+      "spread": 0
+    },
+    {
+      "file": "create-empty.png",
+      "label": "app canvas (below form)",
+      "mode": "solid",
+      "patch": [
+        620,
+        690,
+        40,
+        20
+      ],
+      "dim": [
+        1308,
+        716
+      ],
+      "hex": "#dfeef5",
+      "spread": 0
+    },
+    {
+      "file": "create-empty.png",
+      "label": "header bar",
+      "mode": "solid",
+      "patch": [
+        700,
+        8,
+        120,
+        10
+      ],
+      "dim": [
+        1308,
+        716
+      ],
+      "hex": "#fcfdfe",
+      "spread": 22
+    },
+    {
+      "file": "create-empty.png",
+      "label": "form panel surface",
+      "mode": "solid",
+      "patch": [
+        260,
+        480,
+        60,
+        16
+      ],
+      "dim": [
+        1308,
+        716
+      ],
+      "hex": "#ffffff",
+      "spread": 0
+    },
+    {
+      "file": "create-empty.png",
+      "label": "\"Any feedback?\" fill",
+      "mode": "solid",
+      "patch": [
+        1110,
+        28,
+        30,
+        12
+      ],
+      "dim": [
+        1308,
+        716
+      ],
+      "hex": "#f07e74",
+      "spread": 154
+    },
+    {
+      "file": "create-empty.png",
+      "label": "section heading \"Company logo\"",
+      "mode": "accent",
+      "patch": [
+        60,
+        168,
+        120,
+        22
+      ],
+      "dim": [
+        1308,
+        716
+      ],
+      "hex": "#35afe7",
+      "spread": 107
+    },
+    {
+      "file": "create-empty.png",
+      "label": "section heading \"Profile Details\"",
+      "mode": "accent",
+      "patch": [
+        60,
+        504,
+        120,
+        22
+      ],
+      "dim": [
+        1308,
+        716
+      ],
+      "hex": "#35ade5",
+      "spread": 107
+    },
+    {
+      "file": "create-empty.png",
+      "label": "h1 \"Create company page\"",
+      "mode": "ink",
+      "patch": [
+        60,
+        98,
+        230,
+        22
+      ],
+      "dim": [
+        1308,
+        716
+      ],
+      "hex": "#111827",
+      "spread": 231
+    },
+    {
+      "file": "create-empty.png",
+      "label": "h1 subtitle",
+      "mode": "ink",
+      "patch": [
+        60,
+        130,
+        300,
+        14
+      ],
+      "dim": [
+        1308,
+        716
+      ],
+      "hex": "#6c7287",
+      "spread": 141
+    },
+    {
+      "file": "create-empty.png",
+      "label": "field label \"Name\"",
+      "mode": "ink",
+      "patch": [
+        62,
+        394,
+        40,
+        14
+      ],
+      "dim": [
+        1308,
+        716
+      ],
+      "hex": "#2e273f",
+      "spread": 217
+    },
+    {
+      "file": "create-empty.png",
+      "label": "upload zone fill",
+      "mode": "solid",
+      "patch": [
+        280,
+        240,
+        120,
+        20
+      ],
+      "dim": [
+        1308,
+        716
+      ],
+      "hex": "#f8fafc",
+      "spread": 0
+    },
+    {
+      "file": "create-empty.png",
+      "label": "upload \"Drag & drop\" bold",
+      "mode": "ink",
+      "patch": [
+        157,
+        282,
+        150,
+        14
+      ],
+      "dim": [
+        1308,
+        716
+      ],
+      "hex": "#252526",
+      "spread": 213
+    },
+    {
+      "file": "create-empty.png",
+      "label": "upload helper text",
+      "mode": "ink",
+      "patch": [
+        157,
+        301,
+        240,
+        12
+      ],
+      "dim": [
+        1308,
+        716
+      ],
+      "hex": "#73738b",
+      "spread": 136
+    },
+    {
+      "file": "create-empty.png",
+      "label": "upload icon (blue)",
+      "mode": "accent",
+      "patch": [
+        163,
+        244,
+        24,
+        26
+      ],
+      "dim": [
+        1308,
+        716
+      ],
+      "hex": "#35a8df",
+      "spread": 102
+    },
+    {
+      "file": "create-empty.png",
+      "label": "avatar placeholder fill",
+      "mode": "solid",
+      "patch": [
+        92,
+        265,
+        26,
+        26
+      ],
+      "dim": [
+        1308,
+        716
+      ],
+      "hex": "#d4d6db",
+      "spread": 207
+    },
+    {
+      "file": "create-empty.png",
+      "label": "input placeholder text",
+      "mode": "ink",
+      "patch": [
+        76,
+        431,
+        110,
+        14
+      ],
+      "dim": [
+        1308,
+        716
+      ],
+      "hex": "#c4c2bf",
+      "spread": 62
+    },
+    {
+      "file": "create-empty.png",
+      "label": "preview bar fill",
+      "mode": "solid",
+      "patch": [
+        700,
+        100,
+        120,
+        20
+      ],
+      "dim": [
+        1308,
+        716
+      ],
+      "hex": "#f5f7f8",
+      "spread": 229
+    },
+    {
+      "file": "create-empty.png",
+      "label": "preview bar title ink",
+      "mode": "ink",
+      "patch": [
+        623,
+        95,
+        92,
+        16
+      ],
+      "dim": [
+        1308,
+        716
+      ],
+      "hex": "#111827",
+      "spread": 229
+    },
+    {
+      "file": "create-empty.png",
+      "label": "preview \"Your company name\"",
+      "mode": "ink",
+      "patch": [
+        701,
+        354,
+        190,
+        18
+      ],
+      "dim": [
+        1308,
+        716
+      ],
+      "hex": "#111827",
+      "spread": 231
+    },
+    {
+      "file": "create-empty.png",
+      "label": "preview \"Industry · Location\"",
+      "mode": "ink",
+      "patch": [
+        701,
+        383,
+        110,
+        14
+      ],
+      "dim": [
+        1308,
+        716
+      ],
+      "hex": "#9da3b5",
+      "spread": 93
+    },
+    {
+      "file": "create-filled.png",
+      "label": "slogan (blue italic)",
+      "mode": "accent",
+      "patch": [
+        701,
+        479,
+        200,
+        16
+      ],
+      "dim": [
+        1306,
+        716
+      ],
+      "hex": "#35b0e7",
+      "spread": 107
+    },
+    {
+      "file": "create-filled.png",
+      "label": "description body",
+      "mode": "ink",
+      "patch": [
+        701,
+        412,
+        390,
+        14
+      ],
+      "dim": [
+        1306,
+        716
+      ],
+      "hex": "#384154",
+      "spread": 191
+    },
+    {
+      "file": "create-filled.png",
+      "label": "company title INTERNORY",
+      "mode": "ink",
+      "patch": [
+        701,
+        351,
+        120,
+        20
+      ],
+      "dim": [
+        1306,
+        716
+      ],
+      "hex": "#111827",
+      "spread": 231
+    },
+    {
+      "file": "create-filled.png",
+      "label": "meta \"Computer Software · Rwanda\"",
+      "mode": "ink",
+      "patch": [
+        701,
+        381,
+        150,
+        14
+      ],
+      "dim": [
+        1306,
+        716
+      ],
+      "hex": "#4d556e",
+      "spread": 171
+    },
+    {
+      "file": "create-filled.png",
+      "label": "\"Visit website\" fill",
+      "mode": "solid",
+      "patch": [
+        1130,
+        360,
+        30,
+        16
+      ],
+      "dim": [
+        1306,
+        716
+      ],
+      "hex": "#69bfe7",
+      "spread": 107
+    },
+    {
+      "file": "create-filled.png",
+      "label": "filled input text",
+      "mode": "ink",
+      "patch": [
+        76,
+        429,
+        100,
+        14
+      ],
+      "dim": [
+        1306,
+        716
+      ],
+      "hex": "#402954",
+      "spread": 217
+    },
+    {
+      "file": "create-submit.png",
+      "label": "\"Create page\" fill",
+      "mode": "solid",
+      "patch": [
+        75,
+        705,
+        100,
+        18
+      ],
+      "dim": [
+        1309,
+        761
+      ],
+      "hex": "#63bbe5",
+      "spread": 125
+    },
+    {
+      "file": "create-submit.png",
+      "label": "focused textarea border",
+      "mode": "accent",
+      "patch": [
+        62,
+        580,
+        3,
+        60
+      ],
+      "dim": [
+        1309,
+        761
+      ],
+      "hex": "#35a8df",
+      "spread": 107
+    },
+    {
+      "file": "create-submit.png",
+      "label": "textarea body text",
+      "mode": "ink",
+      "patch": [
+        78,
+        560,
+        400,
+        14
+      ],
+      "dim": [
+        1309,
+        761
+      ],
+      "hex": "#452d47",
+      "spread": 214
+    },
+    {
+      "file": "company-page.png",
+      "label": "verification banner fill",
+      "mode": "solid",
+      "patch": [
+        300,
+        92,
+        200,
+        24
+      ],
+      "dim": [
+        1309,
+        718
+      ],
+      "hex": "#58b7e5",
+      "spread": 107
+    },
+    {
+      "file": "company-page.png",
+      "label": "banner button fill",
+      "mode": "solid",
+      "patch": [
+        640,
+        96,
+        40,
+        14
+      ],
+      "dim": [
+        1309,
+        718
+      ],
+      "hex": "#c1e0f2",
+      "spread": 107
+    },
+    {
+      "file": "company-page.png",
+      "label": "banner button label",
+      "mode": "accent",
+      "patch": [
+        619,
+        97,
+        124,
+        14
+      ],
+      "dim": [
+        1309,
+        718
+      ],
+      "hex": "#35b1e6",
+      "spread": 107
+    },
+    {
+      "file": "company-page.png",
+      "label": "accordion header fill",
+      "mode": "solid",
+      "patch": [
+        1050,
+        95,
+        120,
+        18
+      ],
+      "dim": [
+        1309,
+        718
+      ],
+      "hex": "#41ade1",
+      "spread": 107
+    },
+    {
+      "file": "company-page.png",
+      "label": "tab selected \"Jobs\"",
+      "mode": "accent",
+      "patch": [
+        158,
+        434,
+        32,
+        16
+      ],
+      "dim": [
+        1309,
+        718
+      ],
+      "hex": "#1d85bd",
+      "spread": 146
+    },
+    {
+      "file": "company-page.png",
+      "label": "tab unselected \"Projects\"",
+      "mode": "accent",
+      "patch": [
+        218,
+        434,
+        56,
+        16
+      ],
+      "dim": [
+        1309,
+        718
+      ],
+      "hex": "#35abe4",
+      "spread": 107
+    },
+    {
+      "file": "company-page.png",
+      "label": "tab underline",
+      "mode": "accent",
+      "patch": [
+        158,
+        460,
+        32,
+        4
+      ],
+      "dim": [
+        1309,
+        718
+      ],
+      "hex": "#35a8df",
+      "spread": 107
+    },
+    {
+      "file": "company-page.png",
+      "label": "\"Post a job\" label",
+      "mode": "accent",
+      "patch": [
+        812,
+        644,
+        70,
+        16
+      ],
+      "dim": [
+        1309,
+        718
+      ],
+      "hex": "#35aee5",
+      "spread": 88
+    },
+    {
+      "file": "company-page.png",
+      "label": "\"Save\" fill",
+      "mode": "solid",
+      "patch": [
+        940,
+        588,
+        60,
+        18
+      ],
+      "dim": [
+        1309,
+        718
+      ],
+      "hex": "#53b5e3",
+      "spread": 125
+    },
+    {
+      "file": "company-page.png",
+      "label": "overview field label",
+      "mode": "ink",
+      "patch": [
+        927,
+        154,
+        76,
+        14
+      ],
+      "dim": [
+        1309,
+        718
+      ],
+      "hex": "#272632",
+      "spread": 217
+    },
+    {
+      "file": "company-page.png",
+      "label": "page canvas left margin",
+      "mode": "solid",
+      "patch": [
+        12,
+        400,
+        20,
+        80
+      ],
+      "dim": [
+        1309,
+        718
+      ],
+      "hex": "#dfeef5",
+      "spread": 0
+    },
+    {
+      "file": "company-page.png",
+      "label": "cover title INTERNORY (white)",
+      "mode": "solid",
+      "patch": [
+        196,
+        347,
+        100,
+        14
+      ],
+      "dim": [
+        1309,
+        718
+      ],
+      "hex": "#c1bbb0",
+      "spread": 236
+    },
+    {
+      "file": "company-page.png",
+      "label": "body text on company page",
+      "mode": "ink",
+      "patch": [
+        78,
+        522,
+        400,
+        14
+      ],
+      "dim": [
+        1309,
+        718
+      ],
+      "hex": "#27262e",
+      "spread": 217
+    },
+    {
+      "file": "create-empty.png",
+      "label": "FILL \"Any feedback?\"",
+      "mode": "solid",
+      "patch": [
+        1181,
+        26,
+        10,
+        16
+      ],
+      "dim": [
+        1308,
+        716
+      ],
+      "hex": "#ec5b48",
+      "spread": 154
+    },
+    {
+      "file": "create-empty.png",
+      "label": "FILL avatar placeholder",
+      "mode": "solid",
+      "patch": [
+        98,
+        250,
+        14,
+        8
+      ],
+      "dim": [
+        1308,
+        716
+      ],
+      "hex": "#e5e7eb",
+      "spread": 0
+    },
+    {
+      "file": "create-empty.png",
+      "label": "BORDER input top edge",
+      "mode": "solid",
+      "patch": [
+        150,
+        418,
+        60,
+        1
+      ],
+      "dim": [
+        1308,
+        716
+      ],
+      "hex": "#ffffff",
+      "spread": 0
+    },
+    {
+      "file": "create-empty.png",
+      "label": "BORDER upload dashed",
+      "mode": "solid",
+      "patch": [
+        62,
+        230,
+        1,
+        1
+      ],
+      "dim": [
+        1308,
+        716
+      ],
+      "hex": "#f8f9fb",
+      "spread": 0
+    },
+    {
+      "file": "create-empty.png",
+      "label": "FILL preview bar (clean)",
+      "mode": "solid",
+      "patch": [
+        1100,
+        100,
+        100,
+        20
+      ],
+      "dim": [
+        1308,
+        716
+      ],
+      "hex": "#fbfcfd",
+      "spread": 2
+    },
+    {
+      "file": "create-filled.png",
+      "label": "FILL \"Visit website\"",
+      "mode": "solid",
+      "patch": [
+        1228,
+        358,
+        14,
+        20
+      ],
+      "dim": [
+        1306,
+        716
+      ],
+      "hex": "#3cabe0",
+      "spread": 107
+    },
+    {
+      "file": "create-submit.png",
+      "label": "FILL \"Create page\"",
+      "mode": "solid",
+      "patch": [
+        68,
+        702,
+        20,
+        24
+      ],
+      "dim": [
+        1309,
+        761
+      ],
+      "hex": "#35a8df",
+      "spread": 0
+    },
+    {
+      "file": "company-page.png",
+      "label": "FILL verification banner",
+      "mode": "solid",
+      "patch": [
+        52,
+        90,
+        20,
+        24
+      ],
+      "dim": [
+        1309,
+        718
+      ],
+      "hex": "#35a8df",
+      "spread": 0
+    },
+    {
+      "file": "company-page.png",
+      "label": "FILL banner button (white)",
+      "mode": "solid",
+      "patch": [
+        592,
+        96,
+        18,
+        16
+      ],
+      "dim": [
+        1309,
+        718
+      ],
+      "hex": "#ffffff",
+      "spread": 0
+    },
+    {
+      "file": "company-page.png",
+      "label": "FILL accordion header",
+      "mode": "solid",
+      "patch": [
+        1160,
+        92,
+        80,
+        20
+      ],
+      "dim": [
+        1309,
+        718
+      ],
+      "hex": "#35a8df",
+      "spread": 0
+    },
+    {
+      "file": "company-page.png",
+      "label": "FILL \"Save\"",
+      "mode": "solid",
+      "patch": [
+        933,
+        588,
+        16,
+        20
+      ],
+      "dim": [
+        1309,
+        718
+      ],
+      "hex": "#35a8df",
+      "spread": 0
+    },
+    {
+      "file": "company-page.png",
+      "label": "FILL \"Post a job\" surface",
+      "mode": "solid",
+      "patch": [
+        812,
+        630,
+        20,
+        8
+      ],
+      "dim": [
+        1309,
+        718
+      ],
+      "hex": "#cae5f2",
+      "spread": 88
+    },
+    {
+      "file": "company-page.png",
+      "label": "BORDER tab rail divider",
+      "mode": "solid",
+      "patch": [
+        400,
+        461,
+        60,
+        1
+      ],
+      "dim": [
+        1309,
+        718
+      ],
+      "hex": "#ffffff",
+      "spread": 0
+    },
+    {
+      "file": "company-loading.png",
+      "label": "FILL loading card",
+      "mode": "solid",
+      "patch": [
+        610,
+        300,
+        40,
+        20
+      ],
+      "dim": [
+        1309,
+        713
+      ],
+      "hex": "#ffffff",
+      "spread": 1
+    },
+    {
+      "file": "company-loading.png",
+      "label": "DIMMED canvas under overlay",
+      "mode": "solid",
+      "patch": [
+        12,
+        400,
+        20,
+        80
+      ],
+      "dim": [
+        1309,
+        713
+      ],
+      "hex": "#e9f4f9",
+      "spread": 0
+    },
+    {
+      "file": "company-loading.png",
+      "label": "DIMMED card surface under overlay",
+      "mode": "solid",
+      "patch": [
+        300,
+        560,
+        40,
+        16
+      ],
+      "dim": [
+        1309,
+        713
+      ],
+      "hex": "#f8fafb",
+      "spread": 35
+    },
+    {
+      "file": "company-loading.png",
+      "label": "spinner dot",
+      "mode": "accent",
+      "patch": [
+        634,
+        318,
+        30,
+        30
+      ],
+      "dim": [
+        1309,
+        713
+      ],
+      "hex": "#4eb3e3",
+      "spread": 94
+    },
+    {
+      "file": "create-messaging.png",
+      "label": "FILL messaging panel header",
+      "mode": "solid",
+      "patch": [
+        1080,
+        180,
+        60,
+        20
+      ],
+      "dim": [
+        1306,
+        717
+      ],
+      "hex": "#ffffff",
+      "spread": 0
+    },
+    {
+      "file": "create-messaging.png",
+      "label": "FILL messaging search field",
+      "mode": "solid",
+      "patch": [
+        1100,
+        242,
+        80,
+        14
+      ],
+      "dim": [
+        1306,
+        717
+      ],
+      "hex": "#fbfbfa",
+      "spread": 61
+    }
+  ]
+}

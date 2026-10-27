@@ -1,0 +1,271 @@
+/* ============================================================================
+   Mpuza design tokens — the single source of truth.
+   This is the ONLY file in src/ allowed to contain raw color values.
+   Enforced by `npm run lint:tokens`.
+
+   Each token is tagged with where its value came from:
+     [M]  MEASURED  — read from mpuza.com's computed styles, its CSS bundle,
+                      its manifest, or sampled from reference/screenshots/.
+     [P]  PROPOSED  — not observable on any Mpuza surface. Mine, not theirs.
+
+   Full provenance for every [M] value: docs/design-language.md
+   ========================================================================= */
+
+:root {
+  /* --------------------------------------------------------------------
+     RAW PALETTE — literal values, named by what they are.
+     Never reference these directly from a component; use the semantic
+     tokens below so the meaning stays visible at the call site.
+     ------------------------------------------------------------------ */
+
+  /* Brand blue. 299 occurrences in Mpuza's CSS bundle. */
+  --palette-blue-500: #35a8df;        /* [M] the Mpuza blue */
+  --palette-blue-600: #2b93c5;        /* [M] .mpuza-company-website-btn:hover */
+  --palette-blue-700: #1d7eae;        /* [M] selected tab label — the AA-safe blue */
+  --palette-blue-800: #176b94;        /* [P] darker than any blue Mpuza ships */
+  --palette-blue-050: #dfeef5;        /* [M] app canvas, .light_blue */
+  --palette-blue-025: #f7fbfe;        /* [M] active accordion header tint */
+  --palette-blue-100: #e8f4fb;        /* [M] sidebar gradient top */
+  --palette-blue-150: #d7e9f3;        /* [M] sidebar gradient bottom */
+  --palette-blue-200: #c9dce8;        /* [M] sidebar right border */
+  --palette-blue-border: #e8eef3;     /* [M] tab rail divider, accordion border */
+
+  /* Brand red. manifest.json theme_color. */
+  --palette-red-500: #e9432f;         /* [M] brand red */
+  --palette-red-600: #d63a27;         /* [M] .mpuza_header_feedback:hover */
+  --palette-red-logo-a: #e9453b;      /* [M] logo.png gradient start */
+  --palette-red-logo-b: #f1863e;      /* [M] logo.png gradient end */
+
+  /* Neutrals — the app-shell ramp (Tailwind grey, as Mpuza uses it). */
+  --palette-grey-900: #111827;        /* [M] company title, h1, initials */
+  --palette-grey-850: #1f2937;        /* [M] accordion title */
+  --palette-grey-800: #374151;        /* [M] tagline / description body */
+  --palette-grey-700: #4b5563;        /* [M] Industry · Location */
+  --palette-grey-500: #6b7280;        /* [M] helper text, subtitles */
+  --palette-grey-400: #9ca3af;        /* [M] placeholders, separator dots */
+  --palette-grey-300: #cbd5e1;        /* [M] upload zone dashed border */
+  --palette-grey-250: #dbdbdb;        /* [M] input border */
+  --palette-grey-200: #e5e7eb;        /* [M] card border, logo preview fill */
+  --palette-grey-150: #f3f4f6;        /* [M] company avatar fill */
+  --palette-grey-100: #f8fafc;        /* [M] upload zone fill */
+  --palette-white: #ffffff;           /* [M] */
+
+  /* Deep slate — Mpuza tints its app-shell shadows with this, never with black. */
+  --palette-slate-shadow: 15, 23, 42; /* [M] rgba(15,23,42,…) */
+
+  /* Mpuza's third brand colour. Carries equal weight to blue and red in the
+     landing page's editorial register (the 3px rules cycle through all three). */
+  --palette-navy-700: #0e314c;        /* [M] .mpz-lp-mosaic__card:nth-child(2n) */
+  --palette-navy-rule: 14, 49, 76;    /* [M] rgba(14,49,76,.1) hairline */
+  --palette-slate-700: #3d5a73;       /* [M] .mpz-lp-editorial__item p */
+
+  /* Status. */
+  --palette-green-600: #157347;       /* [M] remote chip text */
+  --palette-green-100: #e8f7ee;       /* [M] remote chip fill */
+  --palette-green-200: #bfe6cf;       /* [M] remote chip border */
+
+  /* --------------------------------------------------------------------
+     SEMANTIC COLOR
+     ------------------------------------------------------------------ */
+
+  /* Brand blue does all the identity work: fills, icons, underlines,
+     checked controls, the slogan, the banner, the accordion headers. */
+  --color-primary: var(--palette-blue-500);           /* [M] */
+  --color-primary-hover: var(--palette-blue-600);     /* [M] */
+
+  /* …but white-on-#35a8df is 2.69:1 and fails WCAG AA. Buttons that carry
+     white label text use this instead: Mpuza's own darker blue, 4.52:1.
+     See docs/design-language.md §6. */
+  --color-primary-text: var(--palette-blue-700);      /* [M] */
+  --color-primary-text-hover: var(--palette-blue-800);/* [P] one step darker again */
+
+  --color-brand: var(--palette-red-500);              /* [M] */
+  --color-brand-hover: var(--palette-red-600);        /* [M] */
+
+  --color-canvas: var(--palette-blue-050);            /* [M] #dfeef5 */
+  --color-surface: var(--palette-white);              /* [M] */
+  --color-surface-subtle: var(--palette-grey-100);    /* [M] upload zone */
+  --color-surface-tint: var(--palette-blue-025);      /* [M] */
+  --color-surface-sunken: var(--palette-grey-150);    /* [M] avatar fill */
+  --color-surface-sunken-strong: var(--palette-grey-200); /* [M] */
+
+  --color-text: var(--palette-grey-900);              /* [M] */
+  --color-text-heading-alt: var(--palette-grey-850);  /* [M] */
+  --color-text-body: var(--palette-grey-800);         /* [M] */
+  --color-text-secondary: var(--palette-grey-700);    /* [M] */
+  --color-text-muted: var(--palette-grey-500);        /* [M] */
+  --color-text-placeholder: var(--palette-grey-400);  /* [M] */
+  --color-text-on-primary: var(--palette-white);      /* [M] */
+
+  --color-border: var(--palette-grey-200);            /* [M] */
+  --color-border-input: var(--palette-grey-250);      /* [M] */
+  --color-border-cool: var(--palette-blue-border);    /* [M] */
+  --color-border-dashed: var(--palette-grey-300);     /* [M] */
+
+  /* --------------------------------------------------------------------
+     EDITORIAL REGISTER
+     Measured from mpuza.com's landing page, which uses a bolder voice than
+     the app shell does: uppercase blue eyebrows, 800-weight numerals and
+     3px top rules that cycle blue → navy → red across a card set.
+     Mpuza owns all of this and simply never uses it inside the product.
+     ------------------------------------------------------------------ */
+  --color-accent: var(--palette-navy-700);            /* [M] third rule colour */
+  --color-accent-text: var(--palette-slate-700);      /* [M] editorial body copy */
+  --color-rule: rgba(var(--palette-navy-rule), 0.1);  /* [M] .mpz-lp-mosaic__card border */
+  --rule-weight: 3px;                                 /* [M] border-top on mosaic cards */
+
+  --color-danger: var(--palette-red-500);             /* [M] Mpuza reuses brand red as danger */
+  --color-danger-hover: var(--palette-red-600);       /* [M] */
+  --color-success: var(--palette-green-600);          /* [M] */
+  --color-success-surface: var(--palette-green-100);  /* [M] */
+  --color-success-border: var(--palette-green-200);   /* [M] */
+
+  /* Mpuza's real focus state is a border-colour change and nothing else.
+     That is not an accessible focus indicator, so this ring is an addition. */
+  --color-focus: var(--palette-blue-700);             /* [P] see §6 */
+
+  /* Overlays carry their own alpha. They are declared literally rather than
+     composed with a Tailwind `/opacity` modifier, because an opacity modifier
+     cannot be applied to a var() colour — it silently yields nothing. */
+  /* Translucent whites for use on the navy island. Declared literally for the
+     same reason as the scrim — Tailwind's `/opacity` modifier cannot act on a
+     var() colour. */
+  --color-on-accent-line: rgba(255, 255, 255, 0.4);   /* [P] unchecked dot border */
+  --color-on-accent-faint: rgba(255, 255, 255, 0.14); /* [P] disabled button fill */
+  --color-on-accent-muted: rgba(255, 255, 255, 0.45); /* [P] disabled button label */
+
+  --color-scrim: rgba(var(--palette-slate-shadow), 0.4);  /* [P] under bottom sheets */
+
+  /* Legibility wash under text that sits on a cover photo. Navy, not black,
+     so it reads as Mpuza rather than as a generic overlay. */
+  --gradient-cover: linear-gradient(
+    to top,
+    rgba(var(--palette-navy-rule), 0.88),
+    rgba(var(--palette-navy-rule), 0.35) 45%,
+    rgba(var(--palette-navy-rule), 0)
+  ); /* [P] */
+  --color-veil: rgba(255, 255, 255, 0.55);                /* [M] antd .ant-spin-blur drops
+                                                                 the page to opacity .5 */
+
+  /* --------------------------------------------------------------------
+     TYPOGRAPHY
+     ------------------------------------------------------------------ */
+  --font-sans: 'Outfit', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif; /* [M] */
+
+  /* The loudest typographic signature on mpuza.com: -0.4px inherited onto
+     204 elements of the home page. Headings tighten further. */
+  --tracking-base: -0.025em;   /* [M] ≡ -0.4px at 16px */
+  --tracking-heading: -0.02em; /* [M] h1/h3/h4 */
+  --tracking-display: -0.03em; /* [M] 48px display */
+  --tracking-initials: 0.02em; /* [M] .mpuza-company-avatar-initials */
+
+  /* Sizes below are Mpuza's own, kept exactly where they map to a real
+     component. They are not a modular scale — Mpuza chose them ad hoc.  */
+  /* Editorial type, measured from the landing page. */
+  --text-hero: clamp(2rem, 3.8vw, 3rem); /* [M] .mpz-lp-intro__title */
+  --leading-hero: 1.08;                  /* [M] */
+  --text-eyebrow: 0.74rem;               /* [M] .mpz-lp-eyebrow */
+  --tracking-eyebrow: 0.14em;            /* [M] */
+  --text-index: 0.9rem;                  /* [M] .mpz-lp-spine__index */
+  --tracking-index: 0.04em;              /* [M] */
+
+  --text-display: 1.35rem;  /* [M] .mpuza-create-company-heading h1 */
+  --text-title: 1.25rem;    /* [M] .mpuza-company-title */
+  --text-title-sm: 1.05rem; /* [M] .mpuza-company-title ≤768px */
+  --text-initials: 1.65rem; /* [M] 104px avatar */
+  --text-initials-sm: 1.2rem; /* [M] 72px form avatar */
+  --text-section: 1rem;     /* [M] .mpuza-company-overview__about h3 */
+  --text-bar-title: 0.95rem;/* [M] preview bar title, accordion title */
+  --text-body: 0.9rem;      /* [M] tagline, slogan */
+  --text-meta: 0.875rem;    /* [M] meta line, form subtitle, buttons */
+  --text-button: 0.875rem;  /* [M] 14px */
+  --text-chip: 0.82rem;     /* [M] feedback button */
+  --text-bar-sub: 0.78rem;  /* [M] preview bar subtitle */
+  --text-tab-mobile: 0.8125rem; /* [M] 13px tabs ≤767px */
+
+  --leading-tight: 1.2;     /* [M] preview bar title */
+  --leading-title: 1.25;    /* [M] company title */
+  --leading-slogan: 1.4;    /* [M] */
+  --leading-body: 1.45;     /* [M] tagline */
+
+  /* --------------------------------------------------------------------
+     SHAPE
+     ------------------------------------------------------------------ */
+  --radius-sm: 0.25rem;   /* [P] small chips */
+  --radius-md: 0.375rem;  /* [M] --mpuza-radius-md — the house radius, 6px */
+  --radius-lg: 0.5rem;    /* [M] accordion items */
+  --radius-xl: 0.75rem;   /* [M] 12px, auth card */
+  --radius-2xl: 1rem;     /* [P] mobile sheets */
+  --radius-full: 9999px;  /* [M] avatars, pills */
+
+  /* --------------------------------------------------------------------
+     DEPTH — Mpuza tints shadows slate, never neutral black.
+     ------------------------------------------------------------------ */
+  --shadow-sm: 0 1px 2px rgba(var(--palette-slate-shadow), 0.03);      /* [M] */
+  --shadow-raised: 0 2px 10px rgba(var(--palette-slate-shadow), 0.04); /* [M] */
+  --shadow-card: 0 4px 18px rgba(var(--palette-slate-shadow), 0.08);   /* [M] */
+  --shadow-avatar-sm: 0 4px 12px rgba(var(--palette-slate-shadow), 0.12); /* [M] 72px */
+  --shadow-avatar: 0 8px 20px rgba(var(--palette-slate-shadow), 0.16); /* [M] 104px */
+  --shadow-modal: 0 10px 30px rgba(16, 24, 40, 0.08);                  /* [M] auth card */
+  --shadow-sheet: 0 -8px 30px rgba(var(--palette-slate-shadow), 0.16); /* [P] bottom sheet */
+  --shadow-bar: 0 -2px 14px rgba(var(--palette-slate-shadow), 0.08);   /* [P] sticky action bar */
+
+  /* --------------------------------------------------------------------
+     SPACE & SIZE
+     ------------------------------------------------------------------ */
+  --page-gutter: 0.75rem;        /* [M] --mpuza-page-gutter ≤834px */
+  --page-gutter-lg: clamp(1.75rem, 3.5vw, 3rem); /* [M] desktop */
+  --control-height: 2.8125rem;   /* [M] .mpuza_input — 45px */
+  --button-height: 2.625rem;     /* [M] .btn_dark_blue — 42px */
+  --button-height-sm: 2.25rem;   /* [M] .mpuza_header_feedback — 36px */
+  --tap-target: 2.75rem;         /* [M] 44px, Mpuza's own mobile tab min-height */
+  --avatar-lg: 104px;            /* [M] */
+  --avatar-md: 72px;             /* [M] */
+  --cover-height: 200px;         /* [M] */
+  --cover-height-sm: 160px;      /* [M] ≤767px */
+
+  /* --------------------------------------------------------------------
+     MOTION — Mpuza ships only `ease`. There is no spring anywhere on the
+     real site, so every spring below is PROPOSED, not brand behaviour.
+     ------------------------------------------------------------------ */
+  --duration-fast: 150ms;   /* [M] .15s */
+  --duration-base: 200ms;   /* [M] .2s — the dominant duration */
+  --duration-slow: 300ms;   /* [M] .3s */
+  --ease-default: ease;                             /* [M] */
+  --ease-antd: cubic-bezier(0.645, 0.045, 0.355, 1);/* [M] */
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);       /* [P] */
+  --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1); /* [P] overshoot */
+
+  /* --------------------------------------------------------------------
+     LAYERING
+     ------------------------------------------------------------------ */
+  --z-base: 0;
+  --z-sticky: 10;
+  --z-header: 20;
+  --z-actionbar: 30;
+  --z-sheet-scrim: 40;
+  --z-sheet: 50;
+  --z-toast: 60;
+  --z-overlay: 70;
+}
+
+/* Mpuza's measured button heights are 42px and 36px. Both sit under the 44px
+   minimum touch target, so on a touch device — and only there — they come up
+   to 44px. On a mouse pointer the measured values stand. This is a deliberate,
+   2px deviation for reachability; see docs/design-language.md §6. */
+@media (pointer: coarse) {
+  :root {
+    --button-height: 2.75rem;
+    --button-height-sm: 2.75rem;
+    /* 46px so the content box inside the 1px borders is a full 44px. */
+    --control-height: 2.875rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --duration-fast: 1ms;
+    --duration-base: 1ms;
+    --duration-slow: 1ms;
+  }
+}

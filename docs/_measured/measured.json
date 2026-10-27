@@ -1,0 +1,5417 @@
+{
+  "measuredAt": "2026-10-27T07:53:37.114Z",
+  "origin": "https://mpuza.com",
+  "pages": {
+    "home": {
+      "path": "/",
+      "url": "https://mpuza.com/",
+      "status": 200,
+      "finalUrl": "https://mpuza.com/",
+      "customProps": {
+        "--antd-wave-shadow-color": "#1890ff",
+        "--bs-black": "#000",
+        "--bs-black-rgb": "0,0,0",
+        "--bs-blue": "#0d6efd",
+        "--bs-body-bg": "#fff",
+        "--bs-body-bg-rgb": "255,255,255",
+        "--bs-body-color": "#212529",
+        "--bs-body-color-rgb": "33,37,41",
+        "--bs-body-font-family": "system-ui,-apple-system,\"Segoe UI\",Roboto,\"Helvetica Neue\",\"Noto Sans\",\"Liberation Sans\",Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"",
+        "--bs-body-font-size": "1rem",
+        "--bs-body-font-weight": "400",
+        "--bs-body-line-height": "1.5",
+        "--bs-border-color": "#dee2e6",
+        "--bs-border-color-translucent": "rgba(0,0,0,0.175)",
+        "--bs-border-radius": "0.375rem",
+        "--bs-border-radius-2xl": "2rem",
+        "--bs-border-radius-lg": "0.5rem",
+        "--bs-border-radius-pill": "50rem",
+        "--bs-border-radius-sm": "0.25rem",
+        "--bs-border-radius-xl": "1rem",
+        "--bs-border-radius-xxl": "2rem",
+        "--bs-border-style": "solid",
+        "--bs-border-width": "1px",
+        "--bs-box-shadow": "0 0.5rem 1rem rgba(0,0,0,0.15)",
+        "--bs-box-shadow-inset": "inset 0 1px 2px rgba(0,0,0,0.075)",
+        "--bs-box-shadow-lg": "0 1rem 3rem rgba(0,0,0,0.175)",
+        "--bs-box-shadow-sm": "0 0.125rem 0.25rem rgba(0,0,0,0.075)",
+        "--bs-breakpoint-lg": "992px",
+        "--bs-breakpoint-md": "768px",
+        "--bs-breakpoint-sm": "576px",
+        "--bs-breakpoint-xl": "1200px",
+        "--bs-breakpoint-xs": "0",
+        "--bs-breakpoint-xxl": "1400px",
+        "--bs-carousel-caption-color": "#fff",
+        "--bs-carousel-indicator-active-bg": "#fff",
+        "--bs-code-color": "#d63384",
+        "--bs-cyan": "#0dcaf0",
+        "--bs-danger": "#dc3545",
+        "--bs-danger-bg-subtle": "#f8d7da",
+        "--bs-danger-border-subtle": "#f1aeb5",
+        "--bs-danger-rgb": "220,53,69",
+        "--bs-danger-text-emphasis": "#58151c",
+        "--bs-dark": "#212529",
+        "--bs-dark-bg-subtle": "#ced4da",
+        "--bs-dark-border-subtle": "#adb5bd",
+        "--bs-dark-rgb": "33,37,41",
+        "--bs-dark-text-emphasis": "#495057",
+        "--bs-emphasis-color": "#000",
+        "--bs-emphasis-color-rgb": "0,0,0",
+        "--bs-focus-ring-color": "rgba(13,110,253,0.25)",
+        "--bs-focus-ring-opacity": "0.25",
+        "--bs-focus-ring-width": "0.25rem",
+        "--bs-font-monospace": "SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New\",monospace",
+        "--bs-font-sans-serif": "system-ui,-apple-system,\"Segoe UI\",Roboto,\"Helvetica Neue\",\"Noto Sans\",\"Liberation Sans\",Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"",
+        "--bs-form-invalid-border-color": "#dc3545",
+        "--bs-form-invalid-color": "#dc3545",
+        "--bs-form-valid-border-color": "#198754",
+        "--bs-form-valid-color": "#198754",
+        "--bs-gradient": "linear-gradient(180deg,rgba(255,255,255,0.15),rgba(255,255,255,0))",
+        "--bs-gray": "#6c757d",
+        "--bs-gray-100": "#f8f9fa",
+        "--bs-gray-200": "#e9ecef",
+        "--bs-gray-300": "#dee2e6",
+        "--bs-gray-400": "#ced4da",
+        "--bs-gray-500": "#adb5bd",
+        "--bs-gray-600": "#6c757d",
+        "--bs-gray-700": "#495057",
+        "--bs-gray-800": "#343a40",
+        "--bs-gray-900": "#212529",
+        "--bs-gray-dark": "#343a40",
+        "--bs-green": "#198754",
+        "--bs-heading-font-family": "\"Outfit\",sans-serif",
+        "--bs-highlight-bg": "#fff3cd",
+        "--bs-highlight-color": "#212529",
+        "--bs-indigo": "#6610f2",
+        "--bs-info": "#0dcaf0",
+        "--bs-info-bg-subtle": "#cff4fc",
+        "--bs-info-border-subtle": "#9eeaf9",
+        "--bs-info-rgb": "13,202,240",
+        "--bs-info-text-emphasis": "#055160",
+        "--bs-light": "#f8f9fa",
+        "--bs-light-bg-subtle": "#fcfcfd",
+        "--bs-light-border-subtle": "#e9ecef",
+        "--bs-light-rgb": "248,249,250",
+        "--bs-light-text-emphasis": "#495057",
+        "--bs-link-color": "#0d6efd",
+        "--bs-link-color-rgb": "13,110,253",
+        "--bs-link-decoration": "underline",
+        "--bs-link-hover-color": "#0a58ca",
+        "--bs-link-hover-color-rgb": "10,88,202",
+        "--bs-orange": "#fd7e14",
+        "--bs-pink": "#d63384",
+        "--bs-primary": "#0d6efd",
+        "--bs-primary-bg-subtle": "#cfe2ff",
+        "--bs-primary-border-subtle": "#9ec5fe",
+        "--bs-primary-rgb": "13,110,253",
+        "--bs-primary-text-emphasis": "#052c65",
+        "--bs-purple": "#6f42c1",
+        "--bs-red": "#dc3545",
+        "--bs-secondary": "#6c757d",
+        "--bs-secondary-bg": "#e9ecef",
+        "--bs-secondary-bg-rgb": "233,236,239",
+        "--bs-secondary-bg-subtle": "#e2e3e5",
+        "--bs-secondary-border-subtle": "#c4c8cb",
+        "--bs-secondary-color": "rgba(33,37,41,0.75)",
+        "--bs-secondary-color-rgb": "33,37,41",
+        "--bs-secondary-rgb": "108,117,125",
+        "--bs-secondary-text-emphasis": "#2b2f32",
+        "--bs-success": "#198754",
+        "--bs-success-bg-subtle": "#d1e7dd",
+        "--bs-success-border-subtle": "#a3cfbb",
+        "--bs-success-rgb": "25,135,84",
+        "--bs-success-text-emphasis": "#0a3622",
+        "--bs-teal": "#20c997",
+        "--bs-tertiary-bg": "#f8f9fa",
+        "--bs-tertiary-bg-rgb": "248,249,250",
+        "--bs-tertiary-color": "rgba(33,37,41,0.5)",
+        "--bs-tertiary-color-rgb": "33,37,41",
+        "--bs-warning": "#ffc107",
+        "--bs-warning-bg-subtle": "#fff3cd",
+        "--bs-warning-border-subtle": "#ffe69c",
+        "--bs-warning-rgb": "255,193,7",
+        "--bs-warning-text-emphasis": "#664d03",
+        "--bs-white": "#fff",
+        "--bs-white-rgb": "255,255,255",
+        "--bs-yellow": "#ffc107",
+        "--font-outfit": "\"Outfit\",sans-serif",
+        "--mpuza-home-gap": "12px",
+        "--mpuza-home-left": "260px",
+        "--mpuza-home-right": "380px",
+        "--mpuza-page-gutter": "clamp(1.75rem,3.5vw,3rem)",
+        "--mpuza-radius-md": "0.375rem",
+        "--scroll-bar": "0",
+        "--tw-border-spacing-x": "0",
+        "--tw-border-spacing-y": "0",
+        "--tw-ring-color": "rgb(59 130 246/0.5)",
+        "--tw-ring-offset-color": "#fff",
+        "--tw-ring-offset-shadow": "0 0 #0000",
+        "--tw-ring-offset-width": "0px",
+        "--tw-ring-shadow": "0 0 #0000",
+        "--tw-rotate": "0",
+        "--tw-scale-x": "1",
+        "--tw-scale-y": "1",
+        "--tw-scroll-snap-strictness": "proximity",
+        "--tw-shadow": "0 0 #0000",
+        "--tw-shadow-colored": "0 0 #0000",
+        "--tw-skew-x": "0",
+        "--tw-skew-y": "0",
+        "--tw-translate-x": "0",
+        "--tw-translate-y": "0"
+      },
+      "probes": {
+        "html": {
+          "_count": 1,
+          "_text": ".anticon { display: inline-flex; alignItems: center; color: ",
+          "_class": "font-outfit",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "18.4px",
+          "letterSpacing": "-0.16px",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(0, 0, 0)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "body": {
+          "_count": 1,
+          "_text": "MpuzaBetaLog inSignupYour privacyHow search worksJust posted",
+          "_class": "font-outfit",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "22.001px",
+          "letterSpacing": "-0.14px",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgba(0, 0, 0, 0.85)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "h1": null,
+        "h2": {
+          "_count": 6,
+          "_text": "Building the infrastructure that connects skills to work.",
+          "_class": "mpz-lp-intro__title",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "48px",
+          "fontWeight": "800",
+          "fontStyle": "normal",
+          "lineHeight": "51.84px",
+          "letterSpacing": "-1.44px",
+          "color": "rgb(15, 23, 42)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(15, 23, 42)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "h3": {
+          "_count": 23,
+          "_text": "Talent exists. Opportunity exists. The connection can be bet",
+          "_class": "",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "16.8px",
+          "fontWeight": "700",
+          "fontStyle": "normal",
+          "lineHeight": "22.68px",
+          "letterSpacing": "-0.336px",
+          "color": "rgb(15, 23, 42)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(15, 23, 42)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "h4": {
+          "_count": 4,
+          "_text": "Push notification",
+          "_class": "",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "14.4px",
+          "fontWeight": "700",
+          "fontStyle": "normal",
+          "lineHeight": "17.28px",
+          "letterSpacing": "-0.288px",
+          "color": "rgb(15, 23, 42)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(15, 23, 42)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "h5": null,
+        "h6": null,
+        "p": {
+          "_count": 46,
+          "_text": "Senior Account Executive · Full time",
+          "_class": "mpuza-opp-title",
+          "fontFamily": "Outfit, sans-serif, Outfit, sans-serif",
+          "fontSize": "11.84px",
+          "fontWeight": "500",
+          "fontStyle": "normal",
+          "lineHeight": "14.8px",
+          "letterSpacing": "-0.4px",
+          "color": "rgb(61, 90, 115)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(61, 90, 115)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "label": {
+          "_count": 1,
+          "_text": "How many people do you want to contact using Email/SMS?",
+          "_class": "mpz-lp-calc__label",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "15.2px",
+          "fontWeight": "600",
+          "fontStyle": "normal",
+          "lineHeight": "23.56px",
+          "letterSpacing": "-0.4px",
+          "color": "rgb(14, 49, 76)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(14, 49, 76)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "small": {
+          "_count": 8,
+          "_text": "Add 2 projects to reach 100%",
+          "_class": "",
+          "fontFamily": "Outfit, sans-serif, Outfit, sans-serif",
+          "fontSize": "11.84px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "18.352px",
+          "letterSpacing": "-0.4px",
+          "color": "rgb(96, 132, 164)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(96, 132, 164)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "strong": {
+          "_count": 17,
+          "_text": "Discover",
+          "_class": "",
+          "fontFamily": "Outfit, sans-serif, Outfit, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "fontStyle": "normal",
+          "lineHeight": "24.8px",
+          "letterSpacing": "-0.4px",
+          "color": "rgb(15, 23, 42)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(15, 23, 42)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "em": {
+          "_count": 3,
+          "_text": "Skills aligned",
+          "_class": "",
+          "fontFamily": "Outfit, sans-serif, Outfit, sans-serif",
+          "fontSize": "11.84px",
+          "fontWeight": "600",
+          "fontStyle": "normal",
+          "lineHeight": "18.352px",
+          "letterSpacing": "-0.4px",
+          "color": "rgb(61, 90, 115)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(61, 90, 115)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "i": null,
+        "input[text]": {
+          "_count": 1,
+          "_text": "",
+          "_class": "ant-input",
+          "fontFamily": "Outfit, sans-serif, Outfit, sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "300",
+          "fontStyle": "normal",
+          "lineHeight": "18.858px",
+          "letterSpacing": "-0.12px",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "none",
+          "borderTopColor": "rgba(0, 0, 0, 0.85)",
+          "borderRadius": "2px",
+          "boxShadow": "none",
+          "padding": "4px 16px",
+          "textTransform": "none",
+          "outlineColor": "rgba(0, 0, 0, 0.85)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "input[password]": null,
+        "input[checkbox]": null,
+        "select": null,
+        "textarea": null,
+        "button": {
+          "_count": 24,
+          "_text": "MpuzaBeta",
+          "_class": "mpuza-nav-brand cursor-pointer group",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "24.8px",
+          "letterSpacing": "-0.4px",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgba(0, 0, 0, 0.85)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "button[submit]": {
+          "_count": 1,
+          "_text": "Calculate",
+          "_class": "mpz-lp-btn mpz-lp-btn--blue",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "15.2px",
+          "fontWeight": "700",
+          "fontStyle": "normal",
+          "lineHeight": "18.24px",
+          "letterSpacing": "-0.152px",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(53, 168, 223)",
+          "backgroundImage": "none",
+          "borderTopWidth": "1px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(53, 168, 223)",
+          "borderRadius": "6px",
+          "boxShadow": "rgba(53, 168, 223, 0.22) 0px 4px 12px 0px",
+          "padding": "12.8px 24px",
+          "textTransform": "none",
+          "outlineColor": "rgb(255, 255, 255)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "a": {
+          "_count": 5,
+          "_text": "About Mpuza",
+          "_class": "mpuza-site-footer-link",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "14.4px",
+          "fontWeight": "500",
+          "fontStyle": "normal",
+          "lineHeight": "22.32px",
+          "letterSpacing": "-0.4px",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(255, 255, 255)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "nav": {
+          "_count": 2,
+          "_text": "MpuzaBetaLog inSignup",
+          "_class": "mpuza-nav-pill",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "24.8px",
+          "letterSpacing": "-0.4px",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "backgroundImage": "none",
+          "borderTopWidth": "1px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgba(193, 192, 185, 0.55)",
+          "borderRadius": "6px",
+          "boxShadow": "rgba(14, 49, 76, 0.06) 0px 4px 18px 0px",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgba(0, 0, 0, 0.85)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "header": {
+          "_count": 1,
+          "_text": "MpuzaBetaLog inSignup",
+          "_class": "headroom mpuza-header-shell",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "24.8px",
+          "letterSpacing": "-0.4px",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "16px 0px 8px",
+          "textTransform": "none",
+          "outlineColor": "rgba(0, 0, 0, 0.85)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "footer": {
+          "_count": 1,
+          "_text": "About MpuzaFor ProfessionalsFor CompaniesFor InstitutionsPri",
+          "_class": "mpuza-site-footer",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "24.8px",
+          "letterSpacing": "-0.4px",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(53, 168, 223)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(255, 255, 255)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "img[logo]": {
+          "_count": 2,
+          "_text": "",
+          "_class": "",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "24.8px",
+          "letterSpacing": "-0.4px",
+          "color": "rgba(0, 0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "none",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgba(0, 0, 0, 0)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "svg": {
+          "_count": 20,
+          "_text": "",
+          "_class": "",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "24px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "37.716px",
+          "letterSpacing": "-0.12px",
+          "color": "rgb(233, 67, 47)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(233, 67, 47)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        }
+      },
+      "census": {
+        "fontFamily": {
+          "Outfit, sans-serif, Outfit, sans-serif": {
+            "count": 425,
+            "examples": [
+              "span.mpuza-nav-title \"MpuzaBeta\"",
+              "sup.mpuza-nav-beta \"Beta\"",
+              "input.ant-input",
+              "span.mpuza-opp-initials \"M\""
+            ]
+          },
+          "Outfit, sans-serif": {
+            "count": 160,
+            "examples": [
+              "html.font-outfit \".anticon { display: inline-flex; alignIt\"",
+              "noscript",
+              "body.font-outfit \"MpuzaBetaLog inSignupYour privacyHow sea\"",
+              "div#__next \"MpuzaBetaLog inSignupYour privacyHow sea\""
+            ]
+          }
+        },
+        "fontSizeWeight": {
+          "14.4px / 400 / 22.32px": {
+            "count": 16,
+            "examples": [
+              "span \"Discover opportunities that match what y\"",
+              "span \"Connect the right skills with the right \"",
+              "span \"Build a team. Manage projects. Deliver w\"",
+              "span \"Your Mpuza profile evolves as your skill\""
+            ]
+          },
+          "16px / 700 / 19.2px": {
+            "count": 12,
+            "examples": [
+              "h3 \"For Professionals\"",
+              "h3 \"For Companies\"",
+              "h3 \"For Universities\"",
+              "h3 \"For TVET & Training\""
+            ]
+          },
+          "14.08px / 400 / 21.824px": {
+            "count": 12,
+            "examples": [
+              "p \"Find opportunities and make skills visib\"",
+              "p \"Find talent and build productive teams.\"",
+              "p \"Strengthen employability and industry co\"",
+              "p \"Connect competencies with labour-market \""
+            ]
+          },
+          "14.72px / 600 / 22.816px": {
+            "count": 12,
+            "examples": [
+              "li.mpz-lp-card--interactive \"Job posting\"",
+              "li.mpz-lp-card--interactive \"Unlimited applications\"",
+              "li.mpz-lp-card--interactive \"AI candidate matching\"",
+              "li.mpz-lp-card--interactive \"AI shortlisting\""
+            ]
+          },
+          "12.16px / 600 / 18.848px": {
+            "count": 10,
+            "examples": [
+              "li.mpz-lp-chip \"React\"",
+              "li.mpz-lp-chip \"Node.js\"",
+              "li.mpz-lp-chip \"PostgreSQL\"",
+              "li.mpz-lp-chip \"Machine Learning\""
+            ]
+          },
+          "15.2px / 700 / 18.24px": {
+            "count": 9,
+            "examples": [
+              "button.mpuza-nav-signup \"Signup\"",
+              "button.mpz-lp-btn.mpz-lp-btn--blue \"Create Your Profile\"",
+              "button.mpz-lp-btn.mpz-lp-btn--red \"Create Your Company\"",
+              "button.mpz-lp-btn.mpz-lp-btn--outline \"Find Talent\""
+            ]
+          },
+          "9.92px / 700 / 15.376px": {
+            "count": 9,
+            "examples": [
+              "span.mpuza-opp-initials \"M\"",
+              "span.mpuza-opp-initials \"M\"",
+              "span.mpuza-opp-initials \"G\"",
+              "span.mpuza-opp-initials \"M\""
+            ]
+          },
+          "12.48px / 600 / 19.344px": {
+            "count": 9,
+            "examples": [
+              "span.mpuza-opp-company-name \"Mozilla\"",
+              "span.mpuza-opp-company-name \"Mozilla\"",
+              "span.mpuza-opp-company-name \"GitLab\"",
+              "span.mpuza-opp-company-name \"Mozilla\""
+            ]
+          },
+          "11.84px / 500 / 14.8px": {
+            "count": 9,
+            "examples": [
+              "p.mpuza-opp-title \"Senior Account Executive · Full time\"",
+              "p.mpuza-opp-title \"Senior Account Executive · Full time\"",
+              "p.mpuza-opp-title \"Senior Manager, Total Rewards Operations\"",
+              "p.mpuza-opp-title \"Senior Account Executive · Full time\""
+            ]
+          },
+          "11.84px / 400 / 14.8px": {
+            "count": 9,
+            "examples": [
+              "span.mpuza-opp-type \"· Full time\"",
+              "span.mpuza-opp-type \"· Full time\"",
+              "span.mpuza-opp-type \"· Full time\"",
+              "span.mpuza-opp-type \"· Full time\""
+            ]
+          },
+          "11.52px / 600 / 17.28px": {
+            "count": 9,
+            "examples": [
+              "span.mpuza-sr-job-workplace.is-remote \"Remote\"",
+              "span.mpuza-sr-job-workplace.is-remote \"Remote\"",
+              "span.mpuza-sr-job-workplace.is-remote \"Remote\"",
+              "span.mpuza-sr-job-workplace.is-remote \"Remote\""
+            ]
+          },
+          "10.4px / 500 / 12.48px": {
+            "count": 9,
+            "examples": [
+              "span.mpuza-opp-time \"8 hours ago\"",
+              "span.mpuza-opp-time \"8 hours ago\"",
+              "span.mpuza-opp-time \"10 hours ago\"",
+              "span.mpuza-opp-time \"8 hours ago\""
+            ]
+          },
+          "14.4px / 700 / 22.32px": {
+            "count": 8,
+            "examples": [
+              "td \"Job Posting\"",
+              "td \"✓ Free\"",
+              "td \"Candidate Discovery\"",
+              "td \"✓ Free\""
+            ]
+          },
+          "11.84px / 400 / 18.352px": {
+            "count": 7,
+            "examples": [
+              "dd \"Skills\"",
+              "dd \"Projects\"",
+              "dd \"Certifications\"",
+              "small \"Add 2 projects to reach 100%\""
+            ]
+          },
+          "16.8px / 800 / 26.04px": {
+            "count": 7,
+            "examples": [
+              "dt \"1 account\"",
+              "dt \"AI-assisted\"",
+              "dt \"Hire → Work\"",
+              "strong \"Free\""
+            ]
+          },
+          "11.52px / 700 / 17.856px": {
+            "count": 7,
+            "examples": [
+              "span.mpz-lp-applicant__action \"Shortlist\"",
+              "span.mpz-lp-applicant__action \"Compare\"",
+              "th \"Capability\"",
+              "th \"Job boards\""
+            ]
+          },
+          "11.84px / 700 / 20.128px": {
+            "count": 6,
+            "examples": [
+              "p.mpz-lp-eyebrow \"About Mpuza\"",
+              "p.mpz-lp-eyebrow \"For Professionals\"",
+              "p.mpz-lp-eyebrow \"For Companies\"",
+              "p.mpz-lp-eyebrow \"For Institutions\""
+            ]
+          },
+          "23.2px / 700 / 29px": {
+            "count": 6,
+            "examples": [
+              "h3.mpz-lp-subheading \"Who Mpuza serves\"",
+              "h3.mpz-lp-subheading \"What institutions unlock\"",
+              "h3.mpz-lp-subheading.mpz-lp-subheading--center \"Everything you need to hire and deliver \"",
+              "h3.mpz-lp-subheading \"Pay only for reach\""
+            ]
+          },
+          "14.4px / 600 / 17.28px": {
+            "count": 6,
+            "examples": [
+              "span \"Hire\"",
+              "span \"Team\"",
+              "span \"Project\"",
+              "span \"Stories\""
+            ]
+          },
+          "13.6px / 800 / 20.4px": {
+            "count": 6,
+            "examples": [
+              "span.mpz-lp-editorial__num \"01\"",
+              "span.mpz-lp-editorial__num \"02\"",
+              "span.mpz-lp-editorial__num \"03\"",
+              "span.mpz-lp-editorial__num \"04\""
+            ]
+          },
+          "14.4px / 500 / 22.32px": {
+            "count": 5,
+            "examples": [
+              "a.mpuza-site-footer-link \"About Mpuza\"",
+              "a.mpuza-site-footer-link \"For Professionals\"",
+              "a.mpuza-site-footer-link \"For Companies\"",
+              "a.mpuza-site-footer-link \"For Institutions\""
+            ]
+          },
+          "48px / 800 / 51.84px": {
+            "count": 4,
+            "examples": [
+              "h2.mpz-lp-intro__title \"Building the infrastructure that connect\"",
+              "h2.mpz-lp-intro__title \"Make your skills visible.\"",
+              "h2.mpz-lp-intro__title \"Find the skills your business needs to g\"",
+              "h2.mpz-lp-intro__title \"Connect education, skills and opportunit\""
+            ]
+          },
+          "17.28px / 400 / 28.512px": {
+            "count": 4,
+            "examples": [
+              "p.mpz-lp-intro__text \"A digital platform where people, compani\"",
+              "p.mpz-lp-intro__text \"Build your professional identity, discov\"",
+              "p.mpz-lp-intro__text \"Discover professionals, recruit talent a\"",
+              "p.mpz-lp-intro__text \"Mpuza helps institutions connect learner\""
+            ]
+          },
+          "14.4px / 800 / 20.16px": {
+            "count": 4,
+            "examples": [
+              "span.mpz-lp-spine__index \"01\"",
+              "span.mpz-lp-spine__index \"02\"",
+              "span.mpz-lp-spine__index \"03\"",
+              "span.mpz-lp-spine__index \"04\""
+            ]
+          },
+          "16px / 700 / 24.8px": {
+            "count": 4,
+            "examples": [
+              "strong \"Discover\"",
+              "strong \"Match → Apply → Hire\"",
+              "strong \"Build → Manage → Deliver\"",
+              "strong \"Grow\""
+            ]
+          },
+          "13.44px / 600 / 20.832px": {
+            "count": 4,
+            "examples": [
+              "span \"Profile completeness\"",
+              "li.mpz-lp-chip.mpz-lp-chip--check \"No monthly subscription\"",
+              "li.mpz-lp-chip.mpz-lp-chip--check \"No job-posting fee\"",
+              "li.mpz-lp-chip.mpz-lp-chip--check \"No hidden fees\""
+            ]
+          },
+          "14.4px / 700 / 17.28px": {
+            "count": 4,
+            "examples": [
+              "h4 \"Push notification\"",
+              "h4 \"Email\"",
+              "h4 \"SMS\"",
+              "h4 \"Email+SMS+Push\""
+            ]
+          },
+          "21.6px / 800 / 33.48px": {
+            "count": 3,
+            "examples": [
+              "dt \"12\"",
+              "dt \"5\"",
+              "dt \"3\""
+            ]
+          },
+          "13.76px / 700 / 21.328px": {
+            "count": 3,
+            "examples": [
+              "strong \"3 opportunities match your skills\"",
+              "span \"Applicants · Senior Software Developer\"",
+              "span \"Institutional view\""
+            ]
+          },
+          "11.2px / 700 / 17.36px": {
+            "count": 3,
+            "examples": [
+              "span.mpz-lp-badge.mpz-lp-badge--blue \"View\"",
+              "span.mpz-lp-badge.mpz-lp-badge--blue \"AI ranked\"",
+              "span.mpz-lp-badge \"Illustrative\""
+            ]
+          },
+          "17.28px / 700 / 22.464px": {
+            "count": 3,
+            "examples": [
+              "h3 \"Discover opportunities\"",
+              "h3 \"Turn your profile into an application\"",
+              "h3 \"Build evidence\""
+            ]
+          },
+          "14.72px / 400 / 23.552px": {
+            "count": 3,
+            "examples": [
+              "p \"Search by job title, skill, company or l\"",
+              "p \"Find an opportunity, understand what the\"",
+              "p \"Projects, portfolio, GitHub, certificati\""
+            ]
+          },
+          "13.12px / 400 / 20.336px": {
+            "count": 3,
+            "examples": [
+              "dd \"No separate company login\"",
+              "dd \"Shortlisting & ranking\"",
+              "dd \"Teams and projects included\""
+            ]
+          },
+          "12.8px / 800 / 19.84px": {
+            "count": 3,
+            "examples": [
+              "span.mpz-lp-avatar \"AM\"",
+              "span.mpz-lp-avatar \"JH\"",
+              "span.mpz-lp-avatar \"CU\""
+            ]
+          },
+          "14.72px / 700 / 22.816px": {
+            "count": 3,
+            "examples": [
+              "strong \"A. Mukamana\"",
+              "strong \"J. Habimana\"",
+              "strong \"C. Uwase\""
+            ]
+          },
+          "12.48px / 400 / 19.344px": {
+            "count": 3,
+            "examples": [
+              "span \"5 yrs · React, Node, AWS\"",
+              "span \"4 yrs · React, GraphQL\"",
+              "span \"3 yrs · Vue, Node\""
+            ]
+          },
+          "11.84px / 600 / 18.352px": {
+            "count": 3,
+            "examples": [
+              "em \"Skills aligned\"",
+              "em \"Skills aligned\"",
+              "em \"Partial match\""
+            ]
+          },
+          "13.12px / 800 / 20.336px": {
+            "count": 3,
+            "examples": [
+              "span.mpz-lp-score.mpz-lp-score--high \"94%\"",
+              "span.mpz-lp-score.mpz-lp-score--high \"88%\"",
+              "span.mpz-lp-score.mpz-lp-score--mid \"71%\""
+            ]
+          },
+          "14.08px / 700 / 21.824px": {
+            "count": 3,
+            "examples": [
+              "span \"Graduates with profiles\"",
+              "span \"Top employer-demanded skills\"",
+              "span \"Internship opportunities open\""
+            ]
+          },
+          "12px / 400 / 18.6px": {
+            "count": 3,
+            "examples": [
+              "small \"per person\"",
+              "small \"per person\"",
+              "small \"per person\""
+            ]
+          }
+        },
+        "color": {
+          "rgb(14, 49, 76)": {
+            "count": 60,
+            "examples": [
+              "span.mpuza-opp-company-name \"Mozilla\"",
+              "span.mpuza-opp-company-name \"Mozilla\"",
+              "span.mpuza-opp-company-name \"GitLab\"",
+              "span.mpuza-opp-company-name \"Mozilla\""
+            ]
+          },
+          "rgb(61, 90, 115)": {
+            "count": 53,
+            "examples": [
+              "p.mpuza-opp-title \"Senior Account Executive · Full time\"",
+              "p.mpuza-opp-title \"Senior Account Executive · Full time\"",
+              "p.mpuza-opp-title \"Senior Manager, Total Rewards Operations\"",
+              "p.mpuza-opp-title \"Senior Account Executive · Full time\""
+            ]
+          },
+          "rgb(15, 23, 42)": {
+            "count": 42,
+            "examples": [
+              "h2.mpz-lp-intro__title \"Building the infrastructure that connect\"",
+              "h3 \"Talent exists. Opportunity exists. The c\"",
+              "strong \"Discover\"",
+              "strong \"Match → Apply → Hire\""
+            ]
+          },
+          "rgb(255, 255, 255)": {
+            "count": 29,
+            "examples": [
+              "button.mpuza-nav-login \"Log in\"",
+              "button.mpuza-nav-signup \"Signup\"",
+              "button.mpz-lp-btn.mpz-lp-btn--blue \"Create Your Profile\"",
+              "span.mpz-lp-avatar.mpz-lp-avatar--lg \"AM\""
+            ]
+          },
+          "rgb(53, 168, 223)": {
+            "count": 28,
+            "examples": [
+              "sup.mpuza-nav-beta \"Beta\"",
+              "span.mpuza-opp-initials \"M\"",
+              "span.mpuza-opp-initials \"M\"",
+              "span.mpuza-opp-initials \"G\""
+            ]
+          },
+          "rgb(96, 132, 164)": {
+            "count": 21,
+            "examples": [
+              "p.mpuza-mobile-jobs-heading \"Just posted\"",
+              "span \"Software Developer · Kigali\"",
+              "dd \"Skills\"",
+              "dd \"Projects\""
+            ]
+          },
+          "rgb(233, 67, 47)": {
+            "count": 11,
+            "examples": [
+              "span.mpuza-nav-title \"MpuzaBeta\"",
+              "span.mpz-lp-spine__index \"04\"",
+              "dt \"1 account\"",
+              "dt \"AI-assisted\""
+            ]
+          },
+          "rgb(122, 151, 176)": {
+            "count": 9,
+            "examples": [
+              "span.mpuza-opp-type \"· Full time\"",
+              "span.mpuza-opp-type \"· Full time\"",
+              "span.mpuza-opp-type \"· Full time\"",
+              "span.mpuza-opp-type \"· Full time\""
+            ]
+          },
+          "rgb(21, 115, 71)": {
+            "count": 9,
+            "examples": [
+              "span.mpuza-sr-job-workplace.is-remote \"Remote\"",
+              "span.mpuza-sr-job-workplace.is-remote \"Remote\"",
+              "span.mpuza-sr-job-workplace.is-remote \"Remote\"",
+              "span.mpuza-sr-job-workplace.is-remote \"Remote\""
+            ]
+          },
+          "rgb(154, 175, 194)": {
+            "count": 9,
+            "examples": [
+              "span.mpuza-opp-time \"8 hours ago\"",
+              "span.mpuza-opp-time \"8 hours ago\"",
+              "span.mpuza-opp-time \"10 hours ago\"",
+              "span.mpuza-opp-time \"8 hours ago\""
+            ]
+          },
+          "rgb(102, 102, 102)": {
+            "count": 2,
+            "examples": [
+              "button.mpuza-landing-info-btn \"Your privacy\"",
+              "button.mpuza-landing-info-btn \"How search works\""
+            ]
+          },
+          "rgb(21, 128, 61)": {
+            "count": 2,
+            "examples": [
+              "span.mpz-lp-score.mpz-lp-score--high \"94%\"",
+              "span.mpz-lp-score.mpz-lp-score--high \"88%\""
+            ]
+          },
+          "rgb(180, 83, 9)": {
+            "count": 1,
+            "examples": [
+              "span.mpz-lp-score.mpz-lp-score--mid \"71%\""
+            ]
+          },
+          "rgb(127, 203, 239)": {
+            "count": 1,
+            "examples": [
+              "span \"Estimated communication cost\""
+            ]
+          },
+          "rgba(230, 240, 247, 0.75)": {
+            "count": 1,
+            "examples": [
+              "small \"1,000 people = 1,000 credits\""
+            ]
+          },
+          "rgba(255, 255, 255, 0.85)": {
+            "count": 1,
+            "examples": [
+              "p.mpz-lp-eyebrow.mpz-lp-eyebrow--light \"Skills first · Jobs next · Work beyond\""
+            ]
+          },
+          "rgba(255, 255, 255, 0.9)": {
+            "count": 1,
+            "examples": [
+              "p \"Whether you’re building your career, gro\""
+            ]
+          },
+          "rgba(255, 255, 255, 0.88)": {
+            "count": 1,
+            "examples": [
+              "p.mpuza-site-footer-copy \"© 2026 Mpuza. All rights reserved.\""
+            ]
+          }
+        },
+        "backgroundColor": {
+          "rgb(255, 255, 255)": {
+            "count": 51,
+            "examples": [
+              "body.font-outfit \"MpuzaBetaLog inSignupYour privacyHow sea\"",
+              "div.mpuza-home-shell.mpuza-home-shell--sections \"MpuzaBetaLog inSignupYour privacyHow sea\"",
+              "nav.mpuza-nav-pill \"MpuzaBetaLog inSignup\"",
+              "section.mpuza-landing \"Your privacyHow search worksJust postedM\""
+            ]
+          },
+          "rgb(234, 246, 252)": {
+            "count": 30,
+            "examples": [
+              "span.mpz-lp-mosaic__icon",
+              "span.mpz-lp-mosaic__icon",
+              "span.mpz-lp-mosaic__icon",
+              "span.mpz-lp-mosaic__icon"
+            ]
+          },
+          "rgb(53, 168, 223)": {
+            "count": 14,
+            "examples": [
+              "button.mpuza-nav-signup \"Signup\"",
+              "button.mpz-lp-btn.mpz-lp-btn--blue \"Create Your Profile\"",
+              "span.mpz-lp-avatar.mpz-lp-avatar--lg \"AM\"",
+              "span.mpz-lp-badge.mpz-lp-badge--blue \"View\""
+            ]
+          },
+          "rgb(247, 251, 254)": {
+            "count": 12,
+            "examples": [
+              "section#about.mpz-lp-section.mpz-lp-section--light.mpz-lp-section--grid \"About MpuzaBuilding the infrastructure t\"",
+              "div \"12Skills\"",
+              "div \"5Projects\"",
+              "div \"3Certifications\""
+            ]
+          },
+          "rgb(251, 253, 254)": {
+            "count": 10,
+            "examples": [
+              "td \"Candidate Discovery\"",
+              "td \"✓\"",
+              "td \"✓\"",
+              "td \"—\""
+            ]
+          },
+          "rgb(14, 49, 76)": {
+            "count": 7,
+            "examples": [
+              "span.mpz-lp-feature-rail__icon",
+              "div.mpz-lp-calc__result \"Estimated communication cost20,000 RWF1,\"",
+              "th \"Capability\"",
+              "th \"Job boards\""
+            ]
+          },
+          "rgb(233, 67, 47)": {
+            "count": 4,
+            "examples": [
+              "button.mpuza-nav-login \"Log in\"",
+              "span.mpz-lp-feature-rail__icon",
+              "button.mpz-lp-btn.mpz-lp-btn--red \"Create Your Company\"",
+              "button.mpz-lp-btn.mpz-lp-btn--red \"Create Your Account\""
+            ]
+          },
+          "rgb(244, 248, 251)": {
+            "count": 3,
+            "examples": [
+              "div.mpuza-opp-logo \"M\"",
+              "div.mpuza-opp-logo \"M\"",
+              "div.mpuza-opp-logo \"G\""
+            ]
+          },
+          "rgb(232, 247, 238)": {
+            "count": 3,
+            "examples": [
+              "span.mpuza-sr-job-workplace.is-remote \"Remote\"",
+              "span.mpuza-sr-job-workplace.is-remote \"Remote\"",
+              "span.mpuza-sr-job-workplace.is-remote \"Remote\""
+            ]
+          },
+          "rgb(220, 252, 231)": {
+            "count": 2,
+            "examples": [
+              "span.mpz-lp-score.mpz-lp-score--high \"94%\"",
+              "span.mpz-lp-score.mpz-lp-score--high \"88%\""
+            ]
+          },
+          "rgba(247, 251, 254, 0.95)": {
+            "count": 1,
+            "examples": [
+              "aside.mpuza-landing-jobs \"MMozillaSenior Account Executive · Full \""
+            ]
+          },
+          "rgb(234, 240, 245)": {
+            "count": 1,
+            "examples": [
+              "div.mpz-lp-meter__track"
+            ]
+          },
+          "rgb(254, 243, 199)": {
+            "count": 1,
+            "examples": [
+              "span.mpz-lp-score.mpz-lp-score--mid \"71%\""
+            ]
+          },
+          "rgba(233, 67, 47, 0.06)": {
+            "count": 1,
+            "examples": [
+              "p.mpz-lp-art__foot \"The recruiter remains in control — AI on\""
+            ]
+          },
+          "rgba(14, 49, 76, 0.9)": {
+            "count": 1,
+            "examples": [
+              "span.mpz-lp-shot__badge \"Enlarge\""
+            ]
+          },
+          "rgb(241, 245, 249)": {
+            "count": 1,
+            "examples": [
+              "span.mpz-lp-badge \"Illustrative\""
+            ]
+          }
+        },
+        "borderColor": {
+          "1px solid rgba(14, 49, 76, 0.06)": {
+            "count": 32,
+            "examples": [
+              "div.mpuza-opp-logo \"M\"",
+              "div.mpuza-opp-logo \"M\"",
+              "div.mpuza-opp-logo \"G\"",
+              "div.mpuza-opp-logo \"M\""
+            ]
+          },
+          "1px solid rgba(14, 49, 76, 0.1)": {
+            "count": 20,
+            "examples": [
+              "div.mpz-lp-problem \"Talent exists. Opportunity exists. The c\"",
+              "div.mpz-lp-spine \"Skills → Opportunity → Work01DiscoverDis\"",
+              "dl.mpz-lp-kpis \"1 accountNo separate company loginAI-ass\"",
+              "div.mpz-lp-block \"Don't stop at recruitment.Once the right\""
+            ]
+          },
+          "1px solid rgba(14, 49, 76, 0.08)": {
+            "count": 14,
+            "examples": [
+              "button.mpuza-opp-card \"MMozillaSenior Account Executive · Full \"",
+              "button.mpuza-opp-card \"MMozillaSenior Account Executive · Full \"",
+              "button.mpuza-opp-card \"GGitLabSenior Manager, Total Rewards Ope\"",
+              "button.mpuza-opp-card \"MMozillaSenior Account Executive · Full \""
+            ]
+          },
+          "0px solid rgb(229, 231, 235)": {
+            "count": 12,
+            "examples": [
+              "div.mpz-lp-spine__label \"Skills → Opportunity → Work\"",
+              "li.mpz-lp-spine__item \"01DiscoverDiscover opportunities that ma\"",
+              "li.mpz-lp-spine__item \"02Match → Apply → HireConnect the right \"",
+              "li.mpz-lp-spine__item \"03Build → Manage → DeliverBuild a team. \""
+            ]
+          },
+          "1px solid rgba(0, 0, 0, 0)": {
+            "count": 10,
+            "examples": [
+              "li.mpz-lp-chip \"React\"",
+              "li.mpz-lp-chip \"Node.js\"",
+              "li.mpz-lp-chip \"PostgreSQL\"",
+              "li.mpz-lp-chip \"Machine Learning\""
+            ]
+          },
+          "1px solid rgb(191, 230, 207)": {
+            "count": 9,
+            "examples": [
+              "span.mpuza-sr-job-workplace.is-remote \"Remote\"",
+              "span.mpuza-sr-job-workplace.is-remote \"Remote\"",
+              "span.mpuza-sr-job-workplace.is-remote \"Remote\"",
+              "span.mpuza-sr-job-workplace.is-remote \"Remote\""
+            ]
+          },
+          "1px solid rgb(53, 168, 223)": {
+            "count": 5,
+            "examples": [
+              "button.mpuza-nav-signup \"Signup\"",
+              "button.mpz-lp-btn.mpz-lp-btn--blue \"Create Your Profile\"",
+              "span \"Delivery\"",
+              "button.mpz-lp-btn.mpz-lp-btn--blue \"Partner With Mpuza\""
+            ]
+          },
+          "1px solid rgba(53, 168, 223, 0.28)": {
+            "count": 5,
+            "examples": [
+              "span \"Hire\"",
+              "span \"Team\"",
+              "span \"Project\"",
+              "span \"Stories\""
+            ]
+          },
+          "1px solid rgb(233, 67, 47)": {
+            "count": 4,
+            "examples": [
+              "button.mpuza-nav-login \"Log in\"",
+              "span.ant-input-affix-wrapper.mpuza_input.search",
+              "button.mpz-lp-btn.mpz-lp-btn--red \"Create Your Company\"",
+              "button.mpz-lp-btn.mpz-lp-btn--red \"Create Your Account\""
+            ]
+          },
+          "3px solid rgb(53, 168, 223)": {
+            "count": 4,
+            "examples": [
+              "article.mpz-lp-mosaic__card.mpz-lp-card--interactive \"For ProfessionalsFind opportunities and \"",
+              "article.mpz-lp-mosaic__card.mpz-lp-card--interactive \"For ResearchersConnect ideas with organi\"",
+              "div.mpz-lp-art.mpz-lp-art--profile \"AMAline MukamanaSoftware Developer · Kig\"",
+              "form.mpz-lp-calc \"How many people do you want to contact u\""
+            ]
+          },
+          "1px solid rgba(14, 49, 76, 0.05)": {
+            "count": 3,
+            "examples": [
+              "section#about.mpz-lp-section.mpz-lp-section--light.mpz-lp-section--grid \"About MpuzaBuilding the infrastructure t\"",
+              "section#for-companies.mpz-lp-section.mpz-lp-section--light.mpz-lp-section--companies \"For CompaniesFind the skills your busine\"",
+              "section#pricing.mpz-lp-section.mpz-lp-section--light.mpz-lp-section--pricing \"PricingSimple, fair pricing.Use Mpuza 10\""
+            ]
+          },
+          "3px solid rgb(14, 49, 76)": {
+            "count": 3,
+            "examples": [
+              "article.mpz-lp-mosaic__card.mpz-lp-card--interactive \"For CompaniesFind talent and build produ\"",
+              "article.mpz-lp-mosaic__card.mpz-lp-card--interactive \"For TVET & TrainingConnect competencies \"",
+              "div.mpz-lp-art.mpz-lp-art--metrics \"Institutional viewIllustrativeGraduates \""
+            ]
+          },
+          "3px solid rgb(233, 67, 47)": {
+            "count": 3,
+            "examples": [
+              "article.mpz-lp-mosaic__card.mpz-lp-card--interactive \"For UniversitiesStrengthen employability\"",
+              "article.mpz-lp-mosaic__card.mpz-lp-card--interactive \"For the Wider EcosystemBetter visibility\"",
+              "div.mpz-lp-art.mpz-lp-art--applicants \"Applicants · Senior Software DeveloperAI\""
+            ]
+          },
+          "1px solid rgba(14, 49, 76, 0.12)": {
+            "count": 3,
+            "examples": [
+              "li.mpz-lp-chip.mpz-lp-chip--check \"No monthly subscription\"",
+              "li.mpz-lp-chip.mpz-lp-chip--check \"No job-posting fee\"",
+              "li.mpz-lp-chip.mpz-lp-chip--check \"No hidden fees\""
+            ]
+          },
+          "1px solid rgba(193, 192, 185, 0.55)": {
+            "count": 1,
+            "examples": [
+              "nav.mpuza-nav-pill \"MpuzaBetaLog inSignup\""
+            ]
+          },
+          "1px solid rgba(53, 168, 223, 0.45)": {
+            "count": 1,
+            "examples": [
+              "button.mpz-lp-btn.mpz-lp-btn--outline \"Find Talent\""
+            ]
+          },
+          "1px solid rgba(53, 168, 223, 0.35)": {
+            "count": 1,
+            "examples": [
+              "article.mpz-lp-channel.mpz-lp-card--interactive.mpz-lp-channel--free \"Push notificationFree\""
+            ]
+          },
+          "1px solid rgba(14, 49, 76, 0.16)": {
+            "count": 1,
+            "examples": [
+              "div.mpz-lp-calc__input \"people\""
+            ]
+          },
+          "4px solid rgb(233, 67, 47)": {
+            "count": 1,
+            "examples": [
+              "section.mpz-lp-final \"Skills first · Jobs next · Work beyondYo\""
+            ]
+          },
+          "1px solid rgb(255, 255, 255)": {
+            "count": 1,
+            "examples": [
+              "button.mpz-lp-btn.mpz-lp-btn--white \"Create Your Account\""
+            ]
+          },
+          "1px solid rgba(255, 255, 255, 0.55)": {
+            "count": 1,
+            "examples": [
+              "button.mpz-lp-btn.mpz-lp-btn--ghost \"Create a Company\""
+            ]
+          }
+        },
+        "borderRadius": {
+          "6px": {
+            "count": 110,
+            "examples": [
+              "nav.mpuza-nav-pill \"MpuzaBetaLog inSignup\"",
+              "button.mpuza-nav-login \"Log in\"",
+              "button.mpuza-nav-signup \"Signup\"",
+              "button.mpuza-opp-card \"MMozillaSenior Account Executive · Full \""
+            ]
+          },
+          "999px": {
+            "count": 15,
+            "examples": [
+              "span.mpuza-sr-job-workplace.is-remote \"Remote\"",
+              "span.mpuza-sr-job-workplace.is-remote \"Remote\"",
+              "span.mpuza-sr-job-workplace.is-remote \"Remote\"",
+              "span.mpuza-sr-job-workplace.is-remote \"Remote\""
+            ]
+          },
+          "0px 6px 6px 0px": {
+            "count": 3,
+            "examples": [
+              "div.mpz-lp-problem \"Talent exists. Opportunity exists. The c\"",
+              "p.mpz-lp-art__foot \"The recruiter remains in control — AI on\"",
+              "p.mpz-lp-statement.mpz-lp-statement--blue \"Individual data remains protected. Insti\""
+            ]
+          },
+          "50px": {
+            "count": 1,
+            "examples": [
+              "span.ant-input-affix-wrapper.mpuza_input.search"
+            ]
+          },
+          "2px": {
+            "count": 1,
+            "examples": [
+              "input.ant-input"
+            ]
+          },
+          "8px": {
+            "count": 1,
+            "examples": [
+              "aside.mpuza-landing-jobs \"MMozillaSenior Account Executive · Full \""
+            ]
+          },
+          "12px": {
+            "count": 1,
+            "examples": [
+              "button.mpz-lp-shot__trigger \"Enlarge\""
+            ]
+          }
+        },
+        "boxShadow": {
+          "rgba(14, 49, 76, 0.04) 0px 1px 6px 0px": {
+            "count": 9,
+            "examples": [
+              "button.mpuza-opp-card \"MMozillaSenior Account Executive · Full \"",
+              "button.mpuza-opp-card \"MMozillaSenior Account Executive · Full \"",
+              "button.mpuza-opp-card \"GGitLabSenior Manager, Total Rewards Ope\"",
+              "button.mpuza-opp-card \"MMozillaSenior Account Executive · Full \""
+            ]
+          },
+          "rgba(53, 168, 223, 0.22) 0px 4px 12px 0px": {
+            "count": 4,
+            "examples": [
+              "button.mpuza-nav-signup \"Signup\"",
+              "button.mpz-lp-btn.mpz-lp-btn--blue \"Create Your Profile\"",
+              "button.mpz-lp-btn.mpz-lp-btn--blue \"Partner With Mpuza\"",
+              "button.mpz-lp-btn.mpz-lp-btn--blue \"Calculate\""
+            ]
+          },
+          "rgba(233, 67, 47, 0.22) 0px 4px 12px 0px": {
+            "count": 3,
+            "examples": [
+              "button.mpuza-nav-login \"Log in\"",
+              "button.mpz-lp-btn.mpz-lp-btn--red \"Create Your Company\"",
+              "button.mpz-lp-btn.mpz-lp-btn--red \"Create Your Account\""
+            ]
+          },
+          "rgba(14, 49, 76, 0.06) 0px 4px 18px 0px": {
+            "count": 1,
+            "examples": [
+              "nav.mpuza-nav-pill \"MpuzaBetaLog inSignup\""
+            ]
+          },
+          "rgba(0, 0, 0, 0.24) 0px 3px 8px 0px": {
+            "count": 1,
+            "examples": [
+              "span.ant-input-affix-wrapper.mpuza_input.search"
+            ]
+          },
+          "rgba(14, 49, 76, 0.05) 0px 4px 16px 0px": {
+            "count": 1,
+            "examples": [
+              "aside.mpuza-landing-jobs \"MMozillaSenior Account Executive · Full \""
+            ]
+          },
+          "rgba(14, 49, 76, 0.06) 0px 10px 30px 0px": {
+            "count": 1,
+            "examples": [
+              "form.mpz-lp-calc \"How many people do you want to contact u\""
+            ]
+          },
+          "rgba(14, 49, 76, 0.04) 0px 4px 16px 0px": {
+            "count": 1,
+            "examples": [
+              "div.mpz-lp-table-wrap \"CapabilityJob boardsLinkedIn/IndeedProje\""
+            ]
+          }
+        },
+        "transition": {
+          "border-color, box-shadow, transform 0.2s, 0.2s, 0.15s ease, ease, ease": {
+            "count": 9,
+            "examples": [
+              "button.mpuza-opp-card \"MMozillaSenior Account Executive · Full \"",
+              "button.mpuza-opp-card \"MMozillaSenior Account Executive · Full \"",
+              "button.mpuza-opp-card \"GGitLabSenior Manager, Total Rewards Ope\"",
+              "button.mpuza-opp-card \"MMozillaSenior Account Executive · Full \""
+            ]
+          },
+          "background, box-shadow, border-color, color 0.2s, 0.2s, 0.2s, 0.2s ease, ease, ease, ease": {
+            "count": 8,
+            "examples": [
+              "button.mpz-lp-btn.mpz-lp-btn--blue \"Create Your Profile\"",
+              "button.mpz-lp-btn.mpz-lp-btn--red \"Create Your Company\"",
+              "button.mpz-lp-btn.mpz-lp-btn--outline \"Find Talent\"",
+              "button.mpz-lp-btn.mpz-lp-btn--blue \"Partner With Mpuza\""
+            ]
+          },
+          "opacity 0.2s ease": {
+            "count": 5,
+            "examples": [
+              "a.mpuza-site-footer-link \"About Mpuza\"",
+              "a.mpuza-site-footer-link \"For Professionals\"",
+              "a.mpuza-site-footer-link \"For Companies\"",
+              "a.mpuza-site-footer-link \"For Institutions\""
+            ]
+          },
+          "all 0.3s ease": {
+            "count": 3,
+            "examples": [
+              "header#header.headroom.mpuza-header-shell \"MpuzaBetaLog inSignup\"",
+              "span.ant-input-affix-wrapper.mpuza_input.search",
+              "input.ant-input"
+            ]
+          },
+          "color 0.15s ease": {
+            "count": 2,
+            "examples": [
+              "button.mpuza-landing-info-btn \"Your privacy\"",
+              "button.mpuza-landing-info-btn \"How search works\""
+            ]
+          },
+          "box-shadow 0.3s ease": {
+            "count": 1,
+            "examples": [
+              "nav.mpuza-nav-pill \"MpuzaBetaLog inSignup\""
+            ]
+          },
+          "background, box-shadow, border-color 0.25s, 0.25s, 0.25s ease, ease, ease": {
+            "count": 1,
+            "examples": [
+              "button.mpuza-nav-login \"Log in\""
+            ]
+          },
+          "background, box-shadow 0.25s, 0.25s ease, ease": {
+            "count": 1,
+            "examples": [
+              "button.mpuza-nav-signup \"Signup\""
+            ]
+          },
+          "transform 0.3s ease": {
+            "count": 1,
+            "examples": [
+              "img.mpz-lp-shot__img"
+            ]
+          },
+          "background-color 0.2s ease": {
+            "count": 1,
+            "examples": [
+              "span.mpz-lp-shot__badge \"Enlarge\""
+            ]
+          },
+          "border-color, box-shadow 0.2s, 0.2s ease, ease": {
+            "count": 1,
+            "examples": [
+              "div.mpz-lp-calc__input \"people\""
+            ]
+          }
+        },
+        "letterSpacing": {
+          "-0.4px": {
+            "count": 204,
+            "examples": [
+              "button.mpuza-landing-info-btn \"Your privacy\"",
+              "button.mpuza-landing-info-btn \"How search works\"",
+              "p.mpuza-mobile-jobs-heading \"Just posted\"",
+              "span.mpuza-opp-company-name \"Mozilla\""
+            ]
+          },
+          "-0.32px": {
+            "count": 12,
+            "examples": [
+              "h3 \"For Professionals\"",
+              "h3 \"For Companies\"",
+              "h3 \"For Universities\"",
+              "h3 \"For TVET & Training\""
+            ]
+          },
+          "-0.152px": {
+            "count": 10,
+            "examples": [
+              "button.mpuza-nav-login \"Log in\"",
+              "button.mpuza-nav-signup \"Signup\"",
+              "button.mpz-lp-btn.mpz-lp-btn--blue \"Create Your Profile\"",
+              "button.mpz-lp-btn.mpz-lp-btn--red \"Create Your Company\""
+            ]
+          },
+          "0.1984px": {
+            "count": 9,
+            "examples": [
+              "span.mpuza-opp-initials \"M\"",
+              "span.mpuza-opp-initials \"M\"",
+              "span.mpuza-opp-initials \"G\"",
+              "span.mpuza-opp-initials \"M\""
+            ]
+          },
+          "1.6576px": {
+            "count": 6,
+            "examples": [
+              "p.mpz-lp-eyebrow \"About Mpuza\"",
+              "p.mpz-lp-eyebrow \"For Professionals\"",
+              "p.mpz-lp-eyebrow \"For Companies\"",
+              "p.mpz-lp-eyebrow \"For Institutions\""
+            ]
+          },
+          "-0.464px": {
+            "count": 6,
+            "examples": [
+              "h3.mpz-lp-subheading \"Who Mpuza serves\"",
+              "h3.mpz-lp-subheading \"What institutions unlock\"",
+              "h3.mpz-lp-subheading.mpz-lp-subheading--center \"Everything you need to hire and deliver \"",
+              "h3.mpz-lp-subheading \"Pay only for reach\""
+            ]
+          },
+          "0.816px": {
+            "count": 6,
+            "examples": [
+              "span.mpz-lp-editorial__num \"01\"",
+              "span.mpz-lp-editorial__num \"02\"",
+              "span.mpz-lp-editorial__num \"03\"",
+              "span.mpz-lp-editorial__num \"04\""
+            ]
+          },
+          "1.152px": {
+            "count": 5,
+            "examples": [
+              "th \"Capability\"",
+              "th \"Job boards\"",
+              "th \"LinkedIn/Indeed\"",
+              "th \"Project platforms\""
+            ]
+          },
+          "-1.44px": {
+            "count": 4,
+            "examples": [
+              "h2.mpz-lp-intro__title \"Building the infrastructure that connect\"",
+              "h2.mpz-lp-intro__title \"Make your skills visible.\"",
+              "h2.mpz-lp-intro__title \"Find the skills your business needs to g\"",
+              "h2.mpz-lp-intro__title \"Connect education, skills and opportunit\""
+            ]
+          },
+          "0.576px": {
+            "count": 4,
+            "examples": [
+              "span.mpz-lp-spine__index \"01\"",
+              "span.mpz-lp-spine__index \"02\"",
+              "span.mpz-lp-spine__index \"03\"",
+              "span.mpz-lp-spine__index \"04\""
+            ]
+          },
+          "-0.288px": {
+            "count": 4,
+            "examples": [
+              "h4 \"Push notification\"",
+              "h4 \"Email\"",
+              "h4 \"SMS\"",
+              "h4 \"Email+SMS+Push\""
+            ]
+          },
+          "-0.3456px": {
+            "count": 3,
+            "examples": [
+              "h3 \"Discover opportunities\"",
+              "h3 \"Turn your profile into an application\"",
+              "h3 \"Build evidence\""
+            ]
+          },
+          "-1.1px": {
+            "count": 2,
+            "examples": [
+              "h2.mpz-lp-title \"Simple, fair pricing.\"",
+              "h2 \"Your skills can become your next opportu\""
+            ]
+          },
+          "-0.528px": {
+            "count": 1,
+            "examples": [
+              "span.mpuza-nav-title \"MpuzaBeta\""
+            ]
+          },
+          "normal": {
+            "count": 1,
+            "examples": [
+              "sup.mpuza-nav-beta \"Beta\""
+            ]
+          },
+          "-0.336px": {
+            "count": 1,
+            "examples": [
+              "h3 \"Talent exists. Opportunity exists. The c\""
+            ]
+          },
+          "1.248px": {
+            "count": 1,
+            "examples": [
+              "div.mpz-lp-spine__label \"Skills → Opportunity → Work\""
+            ]
+          },
+          "-0.608px": {
+            "count": 1,
+            "examples": [
+              "h3.mpz-lp-block__title \"Don't stop at recruitment.\""
+            ]
+          },
+          "0.768px": {
+            "count": 1,
+            "examples": [
+              "span \"Estimated communication cost\""
+            ]
+          }
+        }
+      },
+      "focusRing": {
+        "blurred": {
+          "tag": "input",
+          "outline": "0px none rgba(0, 0, 0, 0.85)",
+          "outlineOffset": "0px",
+          "boxShadow": "none",
+          "borderColor": "rgba(0, 0, 0, 0.85)",
+          "borderWidth": "0px"
+        },
+        "focused": {
+          "tag": "input",
+          "outline": "0px none rgba(0, 0, 0, 0.85)",
+          "outlineOffset": "2.9375px",
+          "boxShadow": "none",
+          "borderColor": "rgba(52, 166, 220, 0.996)",
+          "borderWidth": "0px"
+        }
+      },
+      "assets": {
+        "title": "Mpuza",
+        "metaThemeColor": null,
+        "favicons": [
+          {
+            "rel": "manifest",
+            "href": "https://mpuza.com/manifest.json",
+            "type": "",
+            "sizes": ""
+          },
+          {
+            "rel": "icon",
+            "href": "https://mpuza.com/logo.png",
+            "type": "",
+            "sizes": ""
+          },
+          {
+            "rel": "icon",
+            "href": "https://mpuza.com/logo.png",
+            "type": "",
+            "sizes": ""
+          }
+        ],
+        "stylesheets": [
+          "https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap",
+          "https://mpuza.com/_next/static/css/be822bac34120702.css"
+        ],
+        "inlineSvgCount": 20,
+        "firstInlineSvg": "<svg stroke=\"currentColor\" fill=\"currentColor\" stroke-width=\"0\" viewBox=\"0 0 1024 1024\" height=\"1em\" width=\"1em\" xmlns=\"http://www.w3.org/2000/svg\" style=\"color: rgb(233, 67, 47); font-size: 1.5rem;\"><path d=\"M909.6 854.5L649.9 594.8C690.2 542.7 712 479 712 412c0-80.2-31.3-155.4-87.9-212.1-56.6-56.7-132-87.9-212.1-87.9s-155.5 31.3-212.1 87.9C143.2 256.5 112 331.8 112 412c0 80.1 31.3 155.5 87.9 212.1C256.5 680.8 331.8 712 412 712c67 0 130.6-21.8 182.7-62l259.7 259.6a8.2 8.2 0 0 0 11.6 0l43.6-43.5a8.2 8.2 0 0 0 0-11.6zM570.4 570.4C528 612.7 471.8 636 412 636s-116-23.3-158.4-65.6C211.3 528 188 471.8 188 412s23.3-116.1 65.6-158.4C296 211.3 352.2 188 412 188s116.1 23.2 158.4 65.6S636 352.2 636 412s-23.3 116.1-65.6 158.4z\"></path></svg>",
+        "images": [
+          {
+            "src": "https://mpuza.com/logo.png",
+            "alt": "Mpuza Logo",
+            "w": 500,
+            "h": 378
+          },
+          {
+            "src": "https://mpuza.com/logo.png",
+            "alt": "Mpuza",
+            "w": 500,
+            "h": 378
+          },
+          {
+            "src": "https://mpuza.com/recruitment-tablet-transparent-noshadow.png",
+            "alt": "Mpuza Project Management module: the Stories board with My Work, Current Iteration and Done columns, and an open story showing its state and code reviews",
+            "w": 0,
+            "h": 0
+          }
+        ]
+      },
+      "loadedFonts": [
+        {
+          "family": "Outfit",
+          "weight": "300",
+          "style": "normal",
+          "status": "unloaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "300",
+          "style": "normal",
+          "status": "loaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "400",
+          "style": "normal",
+          "status": "unloaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "400",
+          "style": "normal",
+          "status": "loaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "500",
+          "style": "normal",
+          "status": "unloaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "500",
+          "style": "normal",
+          "status": "loaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "600",
+          "style": "normal",
+          "status": "unloaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "600",
+          "style": "normal",
+          "status": "loaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "700",
+          "style": "normal",
+          "status": "unloaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "700",
+          "style": "normal",
+          "status": "loaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "800",
+          "style": "normal",
+          "status": "unloaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "800",
+          "style": "normal",
+          "status": "loaded"
+        }
+      ],
+      "textSample": "MpuzaBeta\nLog in\nSignup\nYour privacy\nHow search works\nM\nMozilla\n\nSenior Account Executive · Full time\n\nRemote\n8 hours ago\nM\nMozilla\n\nSenior Account Executive · Full time\n\nRemote\n8 hours ago\nG\nGitLab\n\nSenior Manager, Total Rewards Operations · Full time\n\nRemote\n10 hours ago\n\nABOUT MPUZA\n\nBuilding the infrastructure that connects skills to work.\n\nA digital platform where people, companies, education and technology connect around skills, opportunity and productive work.\n\nTalent exists. Opportunity exists. The connection can be better.\n\nPeople develop skills. Institutions develop talent. Companies need people. Entrepreneurs create businesses. Researchers develop ideas. But these activities often operate through disconnected systems — Mpuza is designed to connect them.\n\nSKILLS → OPPORTUNITY → WORK\n01\nDiscover\nDiscover opportunities that match what you can do.\n02\nMatch → Apply → Hire\nConnect the right skills with the right opportunities.\n03\nBuild → Manage → Deliver\nBuild a team. Manage projects. Deliver work.\n04\nGrow\nYour Mpuza profile evolves as your skills, experience and career change.\nWho Mpuza serves\nFor Professionals\n\nFind opportunities and make skills visible.\n\nFor Companies\n\nFind talent and build productive teams.\n\nFor Universities\n\nStrengthen employability and industry connections.\n\nFor TVET & Training\n\nConnect competencies with labour-market opportunities.\n\nFor Researchers\n\nConnect ideas with organizations and practical applications.\n\nFor the Wider Ecosystem\n\nBetter visibility across skills, opportunities and work.\n\nFOR PROFESSIONALS\n\nMake your skills visible.\n\nBuild your professional identity, discover opportunities and connect your skills with organizations looking for talent.\n\nCreate Your Profile\nAM\nAline Mukamana\nSoftware Developer · Kigali\nReact\nNode.js\nPostgreSQL\nMachine Learning\n+6\n12\nSkills\n5\nProjects\n3\nCertifications\nProfile completeness\n82%\nAdd 2 projects to reach 100%\n3 opportunities match your skills\nBased on React, Node.js and ML\nView\nDiscover opportunities\n\nSearch by job title, skill, company or location — or simply describe the kind of opportunity you want.\n\nTurn your profile into an application\n\nFind an opportunity, understand what the organization needs and apply using your Mpuza profile.\n\nBuild evidence\n\nProjects, portfolio, GitHub, certifications, work experience, contributions and achievements.\n\nFOR COMPANIES\n\nFind the skills your business needs to grow.\n\nDiscover professionals, recruit talent and build teams around the work your or",
+      "mobileProbes": {
+        "html": {
+          "_count": 1,
+          "_text": ".anticon { display: inline-flex; alignItems: center; color: ",
+          "_class": "font-outfit",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "18.4px",
+          "letterSpacing": "-0.16px",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(0, 0, 0)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "body": {
+          "_count": 1,
+          "_text": "MpuzaBetaLog inSignupYour privacyHow search worksJust posted",
+          "_class": "font-outfit",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "22.001px",
+          "letterSpacing": "-0.14px",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgba(0, 0, 0, 0.85)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "h1": null,
+        "h2": {
+          "_count": 6,
+          "_text": "Building the infrastructure that connects skills to work.",
+          "_class": "mpz-lp-intro__title",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "32px",
+          "fontWeight": "800",
+          "fontStyle": "normal",
+          "lineHeight": "34.56px",
+          "letterSpacing": "-0.96px",
+          "color": "rgb(15, 23, 42)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(15, 23, 42)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "h3": {
+          "_count": 23,
+          "_text": "Talent exists. Opportunity exists. The connection can be bet",
+          "_class": "",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "16.8px",
+          "fontWeight": "700",
+          "fontStyle": "normal",
+          "lineHeight": "22.68px",
+          "letterSpacing": "-0.336px",
+          "color": "rgb(15, 23, 42)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(15, 23, 42)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "h4": {
+          "_count": 4,
+          "_text": "Push notification",
+          "_class": "",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "14.4px",
+          "fontWeight": "700",
+          "fontStyle": "normal",
+          "lineHeight": "17.28px",
+          "letterSpacing": "-0.288px",
+          "color": "rgb(15, 23, 42)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(15, 23, 42)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "h5": null,
+        "h6": null,
+        "p": {
+          "_count": 46,
+          "_text": "Just posted",
+          "_class": "mpuza-mobile-jobs-heading",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "700",
+          "fontStyle": "normal",
+          "lineHeight": "20.4px",
+          "letterSpacing": "-0.4px",
+          "color": "rgb(14, 49, 76)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(14, 49, 76)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "label": {
+          "_count": 1,
+          "_text": "How many people do you want to contact using Email/SMS?",
+          "_class": "mpz-lp-calc__label",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "15.2px",
+          "fontWeight": "600",
+          "fontStyle": "normal",
+          "lineHeight": "23.56px",
+          "letterSpacing": "-0.4px",
+          "color": "rgb(14, 49, 76)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(14, 49, 76)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "small": {
+          "_count": 8,
+          "_text": "Add 2 projects to reach 100%",
+          "_class": "",
+          "fontFamily": "Outfit, sans-serif, Outfit, sans-serif",
+          "fontSize": "11.84px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "18.352px",
+          "letterSpacing": "-0.4px",
+          "color": "rgb(96, 132, 164)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(96, 132, 164)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "strong": {
+          "_count": 17,
+          "_text": "Discover",
+          "_class": "",
+          "fontFamily": "Outfit, sans-serif, Outfit, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "fontStyle": "normal",
+          "lineHeight": "24.8px",
+          "letterSpacing": "-0.4px",
+          "color": "rgb(15, 23, 42)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(15, 23, 42)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "em": {
+          "_count": 3,
+          "_text": "Skills aligned",
+          "_class": "",
+          "fontFamily": "Outfit, sans-serif, Outfit, sans-serif",
+          "fontSize": "11.84px",
+          "fontWeight": "600",
+          "fontStyle": "normal",
+          "lineHeight": "18.352px",
+          "letterSpacing": "-0.4px",
+          "color": "rgb(61, 90, 115)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(61, 90, 115)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "i": null,
+        "input[text]": {
+          "_count": 1,
+          "_text": "",
+          "_class": "ant-input",
+          "fontFamily": "Outfit, sans-serif, Outfit, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "300",
+          "fontStyle": "normal",
+          "lineHeight": "22.001px",
+          "letterSpacing": "-0.14px",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "none",
+          "borderTopColor": "rgba(0, 0, 0, 0.85)",
+          "borderRadius": "2px",
+          "boxShadow": "none",
+          "padding": "4px 16px",
+          "textTransform": "none",
+          "outlineColor": "rgba(0, 0, 0, 0.85)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "input[password]": null,
+        "input[checkbox]": null,
+        "select": null,
+        "textarea": null,
+        "button": {
+          "_count": 24,
+          "_text": "MpuzaBeta",
+          "_class": "mpuza-nav-brand cursor-pointer group",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "24.8px",
+          "letterSpacing": "-0.4px",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgba(0, 0, 0, 0.85)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "button[submit]": {
+          "_count": 1,
+          "_text": "Calculate",
+          "_class": "mpz-lp-btn mpz-lp-btn--blue",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "15.2px",
+          "fontWeight": "700",
+          "fontStyle": "normal",
+          "lineHeight": "18.24px",
+          "letterSpacing": "-0.152px",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(53, 168, 223)",
+          "backgroundImage": "none",
+          "borderTopWidth": "1px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(53, 168, 223)",
+          "borderRadius": "6px",
+          "boxShadow": "rgba(53, 168, 223, 0.22) 0px 4px 12px 0px",
+          "padding": "12.8px 24px",
+          "textTransform": "none",
+          "outlineColor": "rgb(255, 255, 255)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "a": {
+          "_count": 5,
+          "_text": "About Mpuza",
+          "_class": "mpuza-site-footer-link",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "14.4px",
+          "fontWeight": "500",
+          "fontStyle": "normal",
+          "lineHeight": "22.32px",
+          "letterSpacing": "-0.4px",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(255, 255, 255)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "nav": {
+          "_count": 2,
+          "_text": "MpuzaBetaLog inSignup",
+          "_class": "mpuza-nav-pill",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "24.8px",
+          "letterSpacing": "-0.4px",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "backgroundImage": "none",
+          "borderTopWidth": "1px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgba(193, 192, 185, 0.55)",
+          "borderRadius": "6px",
+          "boxShadow": "rgba(14, 49, 76, 0.06) 0px 4px 18px 0px",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgba(0, 0, 0, 0.85)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "header": {
+          "_count": 1,
+          "_text": "MpuzaBetaLog inSignup",
+          "_class": "headroom mpuza-header-shell",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "24.8px",
+          "letterSpacing": "-0.4px",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "16px 0px 8px",
+          "textTransform": "none",
+          "outlineColor": "rgba(0, 0, 0, 0.85)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "footer": {
+          "_count": 1,
+          "_text": "About MpuzaFor ProfessionalsFor CompaniesFor InstitutionsPri",
+          "_class": "mpuza-site-footer",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "24.8px",
+          "letterSpacing": "-0.4px",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(53, 168, 223)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(255, 255, 255)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "img[logo]": {
+          "_count": 2,
+          "_text": "",
+          "_class": "",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "24.8px",
+          "letterSpacing": "-0.4px",
+          "color": "rgba(0, 0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "none",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgba(0, 0, 0, 0)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "svg": {
+          "_count": 20,
+          "_text": "",
+          "_class": "",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "24px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "37.716px",
+          "letterSpacing": "-0.14px",
+          "color": "rgb(233, 67, 47)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(233, 67, 47)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        }
+      },
+      "network": [
+        {
+          "type": "document",
+          "status": 200,
+          "url": "https://mpuza.com/",
+          "ct": "text/html; charset=utf-8"
+        },
+        {
+          "type": "stylesheet",
+          "status": 200,
+          "url": "https://mpuza.com/_next/static/css/be822bac34120702.css",
+          "ct": "text/css; charset=UTF-8"
+        },
+        {
+          "type": "stylesheet",
+          "status": 200,
+          "url": "https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap",
+          "ct": "text/css; charset=utf-8"
+        },
+        {
+          "type": "image",
+          "status": 200,
+          "url": "https://mpuza.com/logo.png",
+          "ct": "image/png"
+        },
+        {
+          "type": "font",
+          "status": 200,
+          "url": "https://fonts.gstatic.com/s/outfit/v15/QGYvz_MVcBeNP4NJtEtq.woff2",
+          "ct": "font/woff2"
+        },
+        {
+          "type": "other",
+          "status": 200,
+          "url": "https://mpuza.com/logo.png",
+          "ct": "image/png"
+        },
+        {
+          "type": "other",
+          "status": 200,
+          "url": "https://mpuza.com/logo.png",
+          "ct": "image/png"
+        }
+      ],
+      "consoleErrors": []
+    },
+    "login": {
+      "path": "/login",
+      "url": "https://mpuza.com/login",
+      "status": 200,
+      "finalUrl": "https://mpuza.com/login",
+      "customProps": {
+        "--antd-wave-shadow-color": "#1890ff",
+        "--bs-black": "#000",
+        "--bs-black-rgb": "0,0,0",
+        "--bs-blue": "#0d6efd",
+        "--bs-body-bg": "#fff",
+        "--bs-body-bg-rgb": "255,255,255",
+        "--bs-body-color": "#212529",
+        "--bs-body-color-rgb": "33,37,41",
+        "--bs-body-font-family": "system-ui,-apple-system,\"Segoe UI\",Roboto,\"Helvetica Neue\",\"Noto Sans\",\"Liberation Sans\",Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"",
+        "--bs-body-font-size": "1rem",
+        "--bs-body-font-weight": "400",
+        "--bs-body-line-height": "1.5",
+        "--bs-border-color": "#dee2e6",
+        "--bs-border-color-translucent": "rgba(0,0,0,0.175)",
+        "--bs-border-radius": "0.375rem",
+        "--bs-border-radius-2xl": "2rem",
+        "--bs-border-radius-lg": "0.5rem",
+        "--bs-border-radius-pill": "50rem",
+        "--bs-border-radius-sm": "0.25rem",
+        "--bs-border-radius-xl": "1rem",
+        "--bs-border-radius-xxl": "2rem",
+        "--bs-border-style": "solid",
+        "--bs-border-width": "1px",
+        "--bs-box-shadow": "0 0.5rem 1rem rgba(0,0,0,0.15)",
+        "--bs-box-shadow-inset": "inset 0 1px 2px rgba(0,0,0,0.075)",
+        "--bs-box-shadow-lg": "0 1rem 3rem rgba(0,0,0,0.175)",
+        "--bs-box-shadow-sm": "0 0.125rem 0.25rem rgba(0,0,0,0.075)",
+        "--bs-breakpoint-lg": "992px",
+        "--bs-breakpoint-md": "768px",
+        "--bs-breakpoint-sm": "576px",
+        "--bs-breakpoint-xl": "1200px",
+        "--bs-breakpoint-xs": "0",
+        "--bs-breakpoint-xxl": "1400px",
+        "--bs-carousel-caption-color": "#fff",
+        "--bs-carousel-indicator-active-bg": "#fff",
+        "--bs-code-color": "#d63384",
+        "--bs-cyan": "#0dcaf0",
+        "--bs-danger": "#dc3545",
+        "--bs-danger-bg-subtle": "#f8d7da",
+        "--bs-danger-border-subtle": "#f1aeb5",
+        "--bs-danger-rgb": "220,53,69",
+        "--bs-danger-text-emphasis": "#58151c",
+        "--bs-dark": "#212529",
+        "--bs-dark-bg-subtle": "#ced4da",
+        "--bs-dark-border-subtle": "#adb5bd",
+        "--bs-dark-rgb": "33,37,41",
+        "--bs-dark-text-emphasis": "#495057",
+        "--bs-emphasis-color": "#000",
+        "--bs-emphasis-color-rgb": "0,0,0",
+        "--bs-focus-ring-color": "rgba(13,110,253,0.25)",
+        "--bs-focus-ring-opacity": "0.25",
+        "--bs-focus-ring-width": "0.25rem",
+        "--bs-font-monospace": "SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New\",monospace",
+        "--bs-font-sans-serif": "system-ui,-apple-system,\"Segoe UI\",Roboto,\"Helvetica Neue\",\"Noto Sans\",\"Liberation Sans\",Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"",
+        "--bs-form-invalid-border-color": "#dc3545",
+        "--bs-form-invalid-color": "#dc3545",
+        "--bs-form-valid-border-color": "#198754",
+        "--bs-form-valid-color": "#198754",
+        "--bs-gradient": "linear-gradient(180deg,rgba(255,255,255,0.15),rgba(255,255,255,0))",
+        "--bs-gray": "#6c757d",
+        "--bs-gray-100": "#f8f9fa",
+        "--bs-gray-200": "#e9ecef",
+        "--bs-gray-300": "#dee2e6",
+        "--bs-gray-400": "#ced4da",
+        "--bs-gray-500": "#adb5bd",
+        "--bs-gray-600": "#6c757d",
+        "--bs-gray-700": "#495057",
+        "--bs-gray-800": "#343a40",
+        "--bs-gray-900": "#212529",
+        "--bs-gray-dark": "#343a40",
+        "--bs-green": "#198754",
+        "--bs-heading-font-family": "\"Outfit\",sans-serif",
+        "--bs-highlight-bg": "#fff3cd",
+        "--bs-highlight-color": "#212529",
+        "--bs-indigo": "#6610f2",
+        "--bs-info": "#0dcaf0",
+        "--bs-info-bg-subtle": "#cff4fc",
+        "--bs-info-border-subtle": "#9eeaf9",
+        "--bs-info-rgb": "13,202,240",
+        "--bs-info-text-emphasis": "#055160",
+        "--bs-light": "#f8f9fa",
+        "--bs-light-bg-subtle": "#fcfcfd",
+        "--bs-light-border-subtle": "#e9ecef",
+        "--bs-light-rgb": "248,249,250",
+        "--bs-light-text-emphasis": "#495057",
+        "--bs-link-color": "#0d6efd",
+        "--bs-link-color-rgb": "13,110,253",
+        "--bs-link-decoration": "underline",
+        "--bs-link-hover-color": "#0a58ca",
+        "--bs-link-hover-color-rgb": "10,88,202",
+        "--bs-orange": "#fd7e14",
+        "--bs-pink": "#d63384",
+        "--bs-primary": "#0d6efd",
+        "--bs-primary-bg-subtle": "#cfe2ff",
+        "--bs-primary-border-subtle": "#9ec5fe",
+        "--bs-primary-rgb": "13,110,253",
+        "--bs-primary-text-emphasis": "#052c65",
+        "--bs-purple": "#6f42c1",
+        "--bs-red": "#dc3545",
+        "--bs-secondary": "#6c757d",
+        "--bs-secondary-bg": "#e9ecef",
+        "--bs-secondary-bg-rgb": "233,236,239",
+        "--bs-secondary-bg-subtle": "#e2e3e5",
+        "--bs-secondary-border-subtle": "#c4c8cb",
+        "--bs-secondary-color": "rgba(33,37,41,0.75)",
+        "--bs-secondary-color-rgb": "33,37,41",
+        "--bs-secondary-rgb": "108,117,125",
+        "--bs-secondary-text-emphasis": "#2b2f32",
+        "--bs-success": "#198754",
+        "--bs-success-bg-subtle": "#d1e7dd",
+        "--bs-success-border-subtle": "#a3cfbb",
+        "--bs-success-rgb": "25,135,84",
+        "--bs-success-text-emphasis": "#0a3622",
+        "--bs-teal": "#20c997",
+        "--bs-tertiary-bg": "#f8f9fa",
+        "--bs-tertiary-bg-rgb": "248,249,250",
+        "--bs-tertiary-color": "rgba(33,37,41,0.5)",
+        "--bs-tertiary-color-rgb": "33,37,41",
+        "--bs-warning": "#ffc107",
+        "--bs-warning-bg-subtle": "#fff3cd",
+        "--bs-warning-border-subtle": "#ffe69c",
+        "--bs-warning-rgb": "255,193,7",
+        "--bs-warning-text-emphasis": "#664d03",
+        "--bs-white": "#fff",
+        "--bs-white-rgb": "255,255,255",
+        "--bs-yellow": "#ffc107",
+        "--font-outfit": "\"Outfit\",sans-serif",
+        "--mpuza-home-gap": "12px",
+        "--mpuza-home-left": "260px",
+        "--mpuza-home-right": "380px",
+        "--mpuza-page-gutter": "clamp(1.75rem,3.5vw,3rem)",
+        "--mpuza-radius-md": "0.375rem",
+        "--scroll-bar": "0",
+        "--tw-border-spacing-x": "0",
+        "--tw-border-spacing-y": "0",
+        "--tw-ring-color": "rgb(59 130 246/0.5)",
+        "--tw-ring-offset-color": "#fff",
+        "--tw-ring-offset-shadow": "0 0 #0000",
+        "--tw-ring-offset-width": "0px",
+        "--tw-ring-shadow": "0 0 #0000",
+        "--tw-rotate": "0",
+        "--tw-scale-x": "1",
+        "--tw-scale-y": "1",
+        "--tw-scroll-snap-strictness": "proximity",
+        "--tw-shadow": "0 0 #0000",
+        "--tw-shadow-colored": "0 0 #0000",
+        "--tw-skew-x": "0",
+        "--tw-skew-y": "0",
+        "--tw-translate-x": "0",
+        "--tw-translate-y": "0"
+      },
+      "probes": {
+        "html": {
+          "_count": 1,
+          "_text": ".anticon { display: inline-flex; alignItems: center; color: ",
+          "_class": "font-outfit",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "18.4px",
+          "letterSpacing": "-0.16px",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(0, 0, 0)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "body": {
+          "_count": 1,
+          "_text": "Welcome Back!Sign inConnect with the World Professionally.Ne",
+          "_class": "font-outfit",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "22.001px",
+          "letterSpacing": "-0.14px",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgba(0, 0, 0, 0.85)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "h1": {
+          "_count": 1,
+          "_text": "Welcome Back!",
+          "_class": "mpuza_auth_title",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "21.6px",
+          "fontWeight": "500",
+          "fontStyle": "normal",
+          "lineHeight": "25.92px",
+          "letterSpacing": "-0.432px",
+          "color": "rgb(17, 24, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(17, 24, 39)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "h2": {
+          "_count": 1,
+          "_text": "Sign in",
+          "_class": "mpuza_auth_subtitle",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "15.2px",
+          "fontWeight": "500",
+          "fontStyle": "normal",
+          "lineHeight": "18.24px",
+          "letterSpacing": "-0.304px",
+          "color": "rgb(55, 65, 81)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(55, 65, 81)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "h3": null,
+        "h4": null,
+        "h5": null,
+        "h6": null,
+        "p": {
+          "_count": 2,
+          "_text": "Connect with the World Professionally.",
+          "_class": "mpuza_auth_description",
+          "fontFamily": "Outfit, sans-serif, Outfit, sans-serif",
+          "fontSize": "13.6px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "23.12px",
+          "letterSpacing": "-0.4px",
+          "color": "rgb(107, 114, 128)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(107, 114, 128)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "label": null,
+        "small": null,
+        "strong": null,
+        "em": null,
+        "i": null,
+        "input[text]": {
+          "_count": 1,
+          "_text": "",
+          "_class": "ant-input",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "300",
+          "fontStyle": "normal",
+          "lineHeight": "18.858px",
+          "letterSpacing": "-0.12px",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "none",
+          "borderTopColor": "rgba(0, 0, 0, 0.85)",
+          "borderRadius": "2px",
+          "boxShadow": "none",
+          "padding": "4px 16px",
+          "textTransform": "none",
+          "outlineColor": "rgba(0, 0, 0, 0.85)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "input[password]": null,
+        "input[checkbox]": null,
+        "select": null,
+        "textarea": null,
+        "button": {
+          "_count": 2,
+          "_text": "",
+          "_class": "card_top cursor-pointer",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "22.001px",
+          "letterSpacing": "-0.4px",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "url(\"https://mpuza.com/logo.png\")",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "none",
+          "borderTopColor": "rgba(0, 0, 0, 0.85)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgba(0, 0, 0, 0.85)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "button[submit]": {
+          "_count": 1,
+          "_text": "Next",
+          "_class": "ant-btn ant-btn-primary btn_dark_blue btn_full mpuza_auth_primary_btn",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "15.2px",
+          "fontWeight": "700",
+          "fontStyle": "normal",
+          "lineHeight": "23.8868px",
+          "letterSpacing": "-0.152px",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(53, 168, 223)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "none",
+          "borderTopColor": "rgb(255, 255, 255)",
+          "borderRadius": "999px",
+          "boxShadow": "rgba(0, 0, 0, 0.043) 0px 2px 0px 0px",
+          "padding": "0px 32px",
+          "textTransform": "none",
+          "outlineColor": "rgb(255, 255, 255)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "a": {
+          "_count": 4,
+          "_text": "Continue with Google",
+          "_class": "mpuza-google-btn",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "22.001px",
+          "letterSpacing": "-0.4px",
+          "color": "rgb(14, 49, 76)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "backgroundImage": "none",
+          "borderTopWidth": "1px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(218, 220, 224)",
+          "borderRadius": "6px",
+          "boxShadow": "rgba(60, 64, 67, 0.08) 0px 1px 2px 0px",
+          "padding": "8.8px 16px",
+          "textTransform": "none",
+          "outlineColor": "rgb(14, 49, 76)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "nav": null,
+        "header": null,
+        "footer": null,
+        "img[logo]": null,
+        "svg": {
+          "_count": 3,
+          "_text": "",
+          "_class": "",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "25.144px",
+          "letterSpacing": "-0.12px",
+          "color": "rgb(53, 168, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(53, 168, 223)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        }
+      },
+      "census": {
+        "fontFamily": {
+          "Outfit, sans-serif": {
+            "count": 54,
+            "examples": [
+              "html.font-outfit \".anticon { display: inline-flex; alignIt\"",
+              "noscript",
+              "body.font-outfit \"Welcome Back!Sign inConnect with the Wor\"",
+              "div#__next \"Welcome Back!Sign inConnect with the Wor\""
+            ]
+          },
+          "Outfit, sans-serif, Outfit, sans-serif": {
+            "count": 2,
+            "examples": [
+              "div.mpuza_auth_header \"Welcome Back!Sign inConnect with the Wor\"",
+              "p.mpuza_auth_description \"Connect with the World Professionally.\""
+            ]
+          }
+        },
+        "fontSizeWeight": {
+          "15.2px / 500 / 18.24px": {
+            "count": 3,
+            "examples": [
+              "h2.mpuza_auth_subtitle \"Sign in\"",
+              "span.mpuza-google-btn-label \"Continue with Google\"",
+              "span.mpuza-github-btn-label \"Sign in with GitHub\""
+            ]
+          },
+          "14.4px / 600 / 22.6296px": {
+            "count": 2,
+            "examples": [
+              "a.mpuza_auth_link \"Create Account\"",
+              "a.mpuza_auth_link \"Home\""
+            ]
+          },
+          "21.6px / 500 / 25.92px": {
+            "count": 1,
+            "examples": [
+              "h1.mpuza_auth_title \"Welcome Back!\""
+            ]
+          },
+          "13.6px / 400 / 23.12px": {
+            "count": 1,
+            "examples": [
+              "p.mpuza_auth_description \"Connect with the World Professionally.\""
+            ]
+          },
+          "15.2px / 700 / 23.8868px": {
+            "count": 1,
+            "examples": [
+              "span \"Next\""
+            ]
+          },
+          "12.8px / 500 / 20.1152px": {
+            "count": 1,
+            "examples": [
+              "span \"Or\""
+            ]
+          }
+        },
+        "color": {
+          "rgb(107, 114, 128)": {
+            "count": 2,
+            "examples": [
+              "p.mpuza_auth_description \"Connect with the World Professionally.\"",
+              "span \"Or\""
+            ]
+          },
+          "rgb(60, 64, 67)": {
+            "count": 2,
+            "examples": [
+              "span.mpuza-google-btn-label \"Continue with Google\"",
+              "span.mpuza-github-btn-label \"Sign in with GitHub\""
+            ]
+          },
+          "rgb(53, 168, 223)": {
+            "count": 2,
+            "examples": [
+              "a.mpuza_auth_link \"Create Account\"",
+              "a.mpuza_auth_link \"Home\""
+            ]
+          },
+          "rgb(17, 24, 39)": {
+            "count": 1,
+            "examples": [
+              "h1.mpuza_auth_title \"Welcome Back!\""
+            ]
+          },
+          "rgb(55, 65, 81)": {
+            "count": 1,
+            "examples": [
+              "h2.mpuza_auth_subtitle \"Sign in\""
+            ]
+          },
+          "rgb(255, 255, 255)": {
+            "count": 1,
+            "examples": [
+              "span \"Next\""
+            ]
+          }
+        },
+        "backgroundColor": {
+          "rgb(255, 255, 255)": {
+            "count": 6,
+            "examples": [
+              "body.font-outfit \"Welcome Back!Sign inConnect with the Wor\"",
+              "div.ant-card.ant-card-bordered.mpuza_card \"Welcome Back!Sign inConnect with the Wor\"",
+              "span.ant-input-affix-wrapper.mpuza_input",
+              "input#Login_email.ant-input"
+            ]
+          },
+          "rgb(247, 250, 252)": {
+            "count": 3,
+            "examples": [
+              "section.ant-layout.mpuza-app-layout \"Welcome Back!Sign inConnect with the Wor\"",
+              "main.ant-layout-content.mpuza-app-content \"Welcome Back!Sign inConnect with the Wor\"",
+              "div.mpuza_auth \"Welcome Back!Sign inConnect with the Wor\""
+            ]
+          },
+          "rgb(53, 168, 223)": {
+            "count": 1,
+            "examples": [
+              "button.ant-btn.ant-btn-primary.btn_dark_blue \"Next\""
+            ]
+          }
+        },
+        "borderColor": {
+          "1px solid rgb(218, 220, 224)": {
+            "count": 2,
+            "examples": [
+              "a.mpuza-google-btn \"Continue with Google\"",
+              "a.mpuza-github-btn \"Sign in with GitHub\""
+            ]
+          },
+          "1px solid rgb(240, 240, 240)": {
+            "count": 1,
+            "examples": [
+              "div.ant-card.ant-card-bordered.mpuza_card \"Welcome Back!Sign inConnect with the Wor\""
+            ]
+          },
+          "1px solid rgb(196, 196, 196)": {
+            "count": 1,
+            "examples": [
+              "span.ant-input-affix-wrapper.mpuza_input"
+            ]
+          }
+        },
+        "borderRadius": {
+          "6px": {
+            "count": 3,
+            "examples": [
+              "span.ant-input-affix-wrapper.mpuza_input",
+              "a.mpuza-google-btn \"Continue with Google\"",
+              "a.mpuza-github-btn \"Sign in with GitHub\""
+            ]
+          },
+          "12px": {
+            "count": 1,
+            "examples": [
+              "div.ant-card.ant-card-bordered.mpuza_card \"Welcome Back!Sign inConnect with the Wor\""
+            ]
+          },
+          "2px": {
+            "count": 1,
+            "examples": [
+              "input#Login_email.ant-input"
+            ]
+          },
+          "999px": {
+            "count": 1,
+            "examples": [
+              "button.ant-btn.ant-btn-primary.btn_dark_blue \"Next\""
+            ]
+          }
+        },
+        "boxShadow": {
+          "rgba(60, 64, 67, 0.08) 0px 1px 2px 0px": {
+            "count": 2,
+            "examples": [
+              "a.mpuza-google-btn \"Continue with Google\"",
+              "a.mpuza-github-btn \"Sign in with GitHub\""
+            ]
+          },
+          "rgba(16, 24, 40, 0.08) 0px 10px 30px 0px": {
+            "count": 1,
+            "examples": [
+              "div.ant-card.ant-card-bordered.mpuza_card \"Welcome Back!Sign inConnect with the Wor\""
+            ]
+          },
+          "rgba(0, 0, 0, 0.043) 0px 2px 0px 0px": {
+            "count": 1,
+            "examples": [
+              "button.ant-btn.ant-btn-primary.btn_dark_blue \"Next\""
+            ]
+          }
+        },
+        "transition": {
+          "all 0.3s ease": {
+            "count": 2,
+            "examples": [
+              "span.ant-input-affix-wrapper.mpuza_input",
+              "input#Login_email.ant-input"
+            ]
+          },
+          "background, box-shadow, border-color 0.2s, 0.2s, 0.2s ease, ease, ease": {
+            "count": 2,
+            "examples": [
+              "a.mpuza-google-btn \"Continue with Google\"",
+              "a.mpuza-github-btn \"Sign in with GitHub\""
+            ]
+          },
+          "color 0.3s ease": {
+            "count": 2,
+            "examples": [
+              "a.mpuza_auth_link \"Create Account\"",
+              "a.mpuza_auth_link \"Home\""
+            ]
+          },
+          "all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1)": {
+            "count": 1,
+            "examples": [
+              "button.ant-btn.ant-btn-primary.btn_dark_blue \"Next\""
+            ]
+          }
+        },
+        "letterSpacing": {
+          "-0.4px": {
+            "count": 4,
+            "examples": [
+              "p.mpuza_auth_description \"Connect with the World Professionally.\"",
+              "span \"Or\"",
+              "a.mpuza_auth_link \"Create Account\"",
+              "a.mpuza_auth_link \"Home\""
+            ]
+          },
+          "0.152px": {
+            "count": 2,
+            "examples": [
+              "span.mpuza-google-btn-label \"Continue with Google\"",
+              "span.mpuza-github-btn-label \"Sign in with GitHub\""
+            ]
+          },
+          "-0.432px": {
+            "count": 1,
+            "examples": [
+              "h1.mpuza_auth_title \"Welcome Back!\""
+            ]
+          },
+          "-0.304px": {
+            "count": 1,
+            "examples": [
+              "h2.mpuza_auth_subtitle \"Sign in\""
+            ]
+          },
+          "-0.152px": {
+            "count": 1,
+            "examples": [
+              "span \"Next\""
+            ]
+          }
+        }
+      },
+      "focusRing": {
+        "blurred": {
+          "tag": "input",
+          "outline": "0px none rgba(0, 0, 0, 0.85)",
+          "outlineOffset": "0px",
+          "boxShadow": "none",
+          "borderColor": "rgba(0, 0, 0, 0.85)",
+          "borderWidth": "0px"
+        },
+        "focused": {
+          "tag": "input",
+          "outline": "0px none rgba(0, 0, 0, 0.85)",
+          "outlineOffset": "2.96875px",
+          "boxShadow": "none",
+          "borderColor": "rgba(53, 167, 222, 1)",
+          "borderWidth": "0px"
+        }
+      },
+      "assets": {
+        "title": "Login",
+        "metaThemeColor": null,
+        "favicons": [
+          {
+            "rel": "manifest",
+            "href": "https://mpuza.com/manifest.json",
+            "type": "",
+            "sizes": ""
+          },
+          {
+            "rel": "icon",
+            "href": "https://mpuza.com/logo.png",
+            "type": "",
+            "sizes": ""
+          },
+          {
+            "rel": "icon",
+            "href": "https://mpuza.com/logo.png",
+            "type": "",
+            "sizes": ""
+          }
+        ],
+        "stylesheets": [
+          "https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap",
+          "https://mpuza.com/_next/static/css/be822bac34120702.css"
+        ],
+        "inlineSvgCount": 3,
+        "firstInlineSvg": "<svg stroke=\"currentColor\" fill=\"currentColor\" stroke-width=\"0\" viewBox=\"0 0 1024 1024\" height=\"1em\" width=\"1em\" xmlns=\"http://www.w3.org/2000/svg\" style=\"color: rgb(53, 168, 223); font-size: 1rem;\"><path d=\"M928 160H96c-17.7 0-32 14.3-32 32v640c0 17.7 14.3 32 32 32h832c17.7 0 32-14.3 32-32V192c0-17.7-14.3-32-32-32zm-40 110.8V792H136V270.8l-27.6-21.5 39.3-50.5 42.8 33.3h643.1l42.8-33.3 39.3 50.5-27.7 21.5zM833.6 232L512 482 190.4 232l-42.8-33.3-39.3 50.5 27.6 21.5 341.6 265.6a55.99 55.99 0 0 0 68.7 0L888 270.8l27.6-21.5-39.3-50.5-42.7 33.2z\"></path></svg>",
+        "images": []
+      },
+      "loadedFonts": [
+        {
+          "family": "Outfit",
+          "weight": "300",
+          "style": "normal",
+          "status": "unloaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "300",
+          "style": "normal",
+          "status": "loaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "400",
+          "style": "normal",
+          "status": "unloaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "400",
+          "style": "normal",
+          "status": "loaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "500",
+          "style": "normal",
+          "status": "unloaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "500",
+          "style": "normal",
+          "status": "loaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "600",
+          "style": "normal",
+          "status": "unloaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "600",
+          "style": "normal",
+          "status": "loaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "700",
+          "style": "normal",
+          "status": "unloaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "700",
+          "style": "normal",
+          "status": "loaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "800",
+          "style": "normal",
+          "status": "unloaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "800",
+          "style": "normal",
+          "status": "unloaded"
+        }
+      ],
+      "textSample": "Welcome Back!\nSign in\n\nConnect with the World Professionally.\n\nNext\nOr\nContinue with Google\nSign in with GitHub\nCreate Account\nHome",
+      "mobileProbes": {
+        "html": {
+          "_count": 1,
+          "_text": ".anticon { display: inline-flex; alignItems: center; color: ",
+          "_class": "font-outfit",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "18.4px",
+          "letterSpacing": "-0.16px",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(0, 0, 0)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "body": {
+          "_count": 1,
+          "_text": "Welcome Back!Sign inConnect with the World Professionally.Ne",
+          "_class": "font-outfit",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "22.001px",
+          "letterSpacing": "-0.14px",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgba(0, 0, 0, 0.85)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "h1": {
+          "_count": 1,
+          "_text": "Welcome Back!",
+          "_class": "mpuza_auth_title",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "18.4px",
+          "fontWeight": "500",
+          "fontStyle": "normal",
+          "lineHeight": "22.08px",
+          "letterSpacing": "-0.368px",
+          "color": "rgb(17, 24, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(17, 24, 39)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "h2": {
+          "_count": 1,
+          "_text": "Sign in",
+          "_class": "mpuza_auth_subtitle",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "15.2px",
+          "fontWeight": "500",
+          "fontStyle": "normal",
+          "lineHeight": "18.24px",
+          "letterSpacing": "-0.304px",
+          "color": "rgb(55, 65, 81)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(55, 65, 81)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "h3": null,
+        "h4": null,
+        "h5": null,
+        "h6": null,
+        "p": {
+          "_count": 2,
+          "_text": "Connect with the World Professionally.",
+          "_class": "mpuza_auth_description",
+          "fontFamily": "Outfit, sans-serif, Outfit, sans-serif",
+          "fontSize": "13.6px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "23.12px",
+          "letterSpacing": "-0.4px",
+          "color": "rgb(107, 114, 128)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(107, 114, 128)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "label": null,
+        "small": null,
+        "strong": null,
+        "em": null,
+        "i": null,
+        "input[text]": {
+          "_count": 1,
+          "_text": "",
+          "_class": "ant-input",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "300",
+          "fontStyle": "normal",
+          "lineHeight": "22.001px",
+          "letterSpacing": "-0.14px",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "none",
+          "borderTopColor": "rgba(0, 0, 0, 0.85)",
+          "borderRadius": "2px",
+          "boxShadow": "none",
+          "padding": "4px 16px",
+          "textTransform": "none",
+          "outlineColor": "rgba(0, 0, 0, 0.85)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "input[password]": null,
+        "input[checkbox]": null,
+        "select": null,
+        "textarea": null,
+        "button": {
+          "_count": 2,
+          "_text": "",
+          "_class": "card_top cursor-pointer",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "22.001px",
+          "letterSpacing": "-0.4px",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "url(\"https://mpuza.com/logo.png\")",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "none",
+          "borderTopColor": "rgba(0, 0, 0, 0.85)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgba(0, 0, 0, 0.85)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "button[submit]": {
+          "_count": 1,
+          "_text": "Next",
+          "_class": "ant-btn ant-btn-primary btn_dark_blue btn_full mpuza_auth_primary_btn",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "15.2px",
+          "fontWeight": "700",
+          "fontStyle": "normal",
+          "lineHeight": "23.8868px",
+          "letterSpacing": "-0.152px",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(53, 168, 223)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "none",
+          "borderTopColor": "rgb(255, 255, 255)",
+          "borderRadius": "999px",
+          "boxShadow": "rgba(0, 0, 0, 0.043) 0px 2px 0px 0px",
+          "padding": "0px 32px",
+          "textTransform": "none",
+          "outlineColor": "rgb(255, 255, 255)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "a": {
+          "_count": 4,
+          "_text": "Continue with Google",
+          "_class": "mpuza-google-btn",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "22.001px",
+          "letterSpacing": "-0.4px",
+          "color": "rgb(14, 49, 76)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "backgroundImage": "none",
+          "borderTopWidth": "1px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(218, 220, 224)",
+          "borderRadius": "6px",
+          "boxShadow": "rgba(60, 64, 67, 0.08) 0px 1px 2px 0px",
+          "padding": "8.8px 16px",
+          "textTransform": "none",
+          "outlineColor": "rgb(14, 49, 76)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "nav": null,
+        "header": null,
+        "footer": null,
+        "img[logo]": null,
+        "svg": {
+          "_count": 3,
+          "_text": "",
+          "_class": "",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "25.144px",
+          "letterSpacing": "-0.14px",
+          "color": "rgb(53, 168, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(53, 168, 223)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        }
+      },
+      "network": [
+        {
+          "type": "document",
+          "status": 200,
+          "url": "https://mpuza.com/login",
+          "ct": "text/html; charset=utf-8"
+        },
+        {
+          "type": "stylesheet",
+          "status": 200,
+          "url": "https://mpuza.com/_next/static/css/be822bac34120702.css",
+          "ct": "text/css; charset=UTF-8"
+        },
+        {
+          "type": "stylesheet",
+          "status": 200,
+          "url": "https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap",
+          "ct": "text/css; charset=utf-8"
+        },
+        {
+          "type": "image",
+          "status": 200,
+          "url": "https://mpuza.com/logo.png",
+          "ct": "image/png"
+        },
+        {
+          "type": "font",
+          "status": 200,
+          "url": "https://fonts.gstatic.com/s/outfit/v15/QGYvz_MVcBeNP4NJtEtq.woff2",
+          "ct": "font/woff2"
+        },
+        {
+          "type": "other",
+          "status": 200,
+          "url": "https://mpuza.com/logo.png",
+          "ct": "image/png"
+        },
+        {
+          "type": "other",
+          "status": 200,
+          "url": "https://mpuza.com/logo.png",
+          "ct": "image/png"
+        }
+      ],
+      "consoleErrors": []
+    },
+    "signin": {
+      "path": "/signin",
+      "url": "https://mpuza.com/signin",
+      "status": 404,
+      "finalUrl": "https://mpuza.com/signin",
+      "customProps": {
+        "--antd-wave-shadow-color": "#1890ff",
+        "--bs-black": "#000",
+        "--bs-black-rgb": "0,0,0",
+        "--bs-blue": "#0d6efd",
+        "--bs-body-bg": "#fff",
+        "--bs-body-bg-rgb": "255,255,255",
+        "--bs-body-color": "#212529",
+        "--bs-body-color-rgb": "33,37,41",
+        "--bs-body-font-family": "system-ui,-apple-system,\"Segoe UI\",Roboto,\"Helvetica Neue\",\"Noto Sans\",\"Liberation Sans\",Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"",
+        "--bs-body-font-size": "1rem",
+        "--bs-body-font-weight": "400",
+        "--bs-body-line-height": "1.5",
+        "--bs-border-color": "#dee2e6",
+        "--bs-border-color-translucent": "rgba(0,0,0,0.175)",
+        "--bs-border-radius": "0.375rem",
+        "--bs-border-radius-2xl": "2rem",
+        "--bs-border-radius-lg": "0.5rem",
+        "--bs-border-radius-pill": "50rem",
+        "--bs-border-radius-sm": "0.25rem",
+        "--bs-border-radius-xl": "1rem",
+        "--bs-border-radius-xxl": "2rem",
+        "--bs-border-style": "solid",
+        "--bs-border-width": "1px",
+        "--bs-box-shadow": "0 0.5rem 1rem rgba(0,0,0,0.15)",
+        "--bs-box-shadow-inset": "inset 0 1px 2px rgba(0,0,0,0.075)",
+        "--bs-box-shadow-lg": "0 1rem 3rem rgba(0,0,0,0.175)",
+        "--bs-box-shadow-sm": "0 0.125rem 0.25rem rgba(0,0,0,0.075)",
+        "--bs-breakpoint-lg": "992px",
+        "--bs-breakpoint-md": "768px",
+        "--bs-breakpoint-sm": "576px",
+        "--bs-breakpoint-xl": "1200px",
+        "--bs-breakpoint-xs": "0",
+        "--bs-breakpoint-xxl": "1400px",
+        "--bs-carousel-caption-color": "#fff",
+        "--bs-carousel-indicator-active-bg": "#fff",
+        "--bs-code-color": "#d63384",
+        "--bs-cyan": "#0dcaf0",
+        "--bs-danger": "#dc3545",
+        "--bs-danger-bg-subtle": "#f8d7da",
+        "--bs-danger-border-subtle": "#f1aeb5",
+        "--bs-danger-rgb": "220,53,69",
+        "--bs-danger-text-emphasis": "#58151c",
+        "--bs-dark": "#212529",
+        "--bs-dark-bg-subtle": "#ced4da",
+        "--bs-dark-border-subtle": "#adb5bd",
+        "--bs-dark-rgb": "33,37,41",
+        "--bs-dark-text-emphasis": "#495057",
+        "--bs-emphasis-color": "#000",
+        "--bs-emphasis-color-rgb": "0,0,0",
+        "--bs-focus-ring-color": "rgba(13,110,253,0.25)",
+        "--bs-focus-ring-opacity": "0.25",
+        "--bs-focus-ring-width": "0.25rem",
+        "--bs-font-monospace": "SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New\",monospace",
+        "--bs-font-sans-serif": "system-ui,-apple-system,\"Segoe UI\",Roboto,\"Helvetica Neue\",\"Noto Sans\",\"Liberation Sans\",Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"",
+        "--bs-form-invalid-border-color": "#dc3545",
+        "--bs-form-invalid-color": "#dc3545",
+        "--bs-form-valid-border-color": "#198754",
+        "--bs-form-valid-color": "#198754",
+        "--bs-gradient": "linear-gradient(180deg,rgba(255,255,255,0.15),rgba(255,255,255,0))",
+        "--bs-gray": "#6c757d",
+        "--bs-gray-100": "#f8f9fa",
+        "--bs-gray-200": "#e9ecef",
+        "--bs-gray-300": "#dee2e6",
+        "--bs-gray-400": "#ced4da",
+        "--bs-gray-500": "#adb5bd",
+        "--bs-gray-600": "#6c757d",
+        "--bs-gray-700": "#495057",
+        "--bs-gray-800": "#343a40",
+        "--bs-gray-900": "#212529",
+        "--bs-gray-dark": "#343a40",
+        "--bs-green": "#198754",
+        "--bs-heading-font-family": "\"Outfit\",sans-serif",
+        "--bs-highlight-bg": "#fff3cd",
+        "--bs-highlight-color": "#212529",
+        "--bs-indigo": "#6610f2",
+        "--bs-info": "#0dcaf0",
+        "--bs-info-bg-subtle": "#cff4fc",
+        "--bs-info-border-subtle": "#9eeaf9",
+        "--bs-info-rgb": "13,202,240",
+        "--bs-info-text-emphasis": "#055160",
+        "--bs-light": "#f8f9fa",
+        "--bs-light-bg-subtle": "#fcfcfd",
+        "--bs-light-border-subtle": "#e9ecef",
+        "--bs-light-rgb": "248,249,250",
+        "--bs-light-text-emphasis": "#495057",
+        "--bs-link-color": "#0d6efd",
+        "--bs-link-color-rgb": "13,110,253",
+        "--bs-link-decoration": "underline",
+        "--bs-link-hover-color": "#0a58ca",
+        "--bs-link-hover-color-rgb": "10,88,202",
+        "--bs-orange": "#fd7e14",
+        "--bs-pink": "#d63384",
+        "--bs-primary": "#0d6efd",
+        "--bs-primary-bg-subtle": "#cfe2ff",
+        "--bs-primary-border-subtle": "#9ec5fe",
+        "--bs-primary-rgb": "13,110,253",
+        "--bs-primary-text-emphasis": "#052c65",
+        "--bs-purple": "#6f42c1",
+        "--bs-red": "#dc3545",
+        "--bs-secondary": "#6c757d",
+        "--bs-secondary-bg": "#e9ecef",
+        "--bs-secondary-bg-rgb": "233,236,239",
+        "--bs-secondary-bg-subtle": "#e2e3e5",
+        "--bs-secondary-border-subtle": "#c4c8cb",
+        "--bs-secondary-color": "rgba(33,37,41,0.75)",
+        "--bs-secondary-color-rgb": "33,37,41",
+        "--bs-secondary-rgb": "108,117,125",
+        "--bs-secondary-text-emphasis": "#2b2f32",
+        "--bs-success": "#198754",
+        "--bs-success-bg-subtle": "#d1e7dd",
+        "--bs-success-border-subtle": "#a3cfbb",
+        "--bs-success-rgb": "25,135,84",
+        "--bs-success-text-emphasis": "#0a3622",
+        "--bs-teal": "#20c997",
+        "--bs-tertiary-bg": "#f8f9fa",
+        "--bs-tertiary-bg-rgb": "248,249,250",
+        "--bs-tertiary-color": "rgba(33,37,41,0.5)",
+        "--bs-tertiary-color-rgb": "33,37,41",
+        "--bs-warning": "#ffc107",
+        "--bs-warning-bg-subtle": "#fff3cd",
+        "--bs-warning-border-subtle": "#ffe69c",
+        "--bs-warning-rgb": "255,193,7",
+        "--bs-warning-text-emphasis": "#664d03",
+        "--bs-white": "#fff",
+        "--bs-white-rgb": "255,255,255",
+        "--bs-yellow": "#ffc107",
+        "--font-outfit": "\"Outfit\",sans-serif",
+        "--mpuza-home-gap": "12px",
+        "--mpuza-home-left": "260px",
+        "--mpuza-home-right": "380px",
+        "--mpuza-page-gutter": "clamp(1.75rem,3.5vw,3rem)",
+        "--mpuza-radius-md": "0.375rem",
+        "--scroll-bar": "0",
+        "--tw-border-spacing-x": "0",
+        "--tw-border-spacing-y": "0",
+        "--tw-ring-color": "rgb(59 130 246/0.5)",
+        "--tw-ring-offset-color": "#fff",
+        "--tw-ring-offset-shadow": "0 0 #0000",
+        "--tw-ring-offset-width": "0px",
+        "--tw-ring-shadow": "0 0 #0000",
+        "--tw-rotate": "0",
+        "--tw-scale-x": "1",
+        "--tw-scale-y": "1",
+        "--tw-scroll-snap-strictness": "proximity",
+        "--tw-shadow": "0 0 #0000",
+        "--tw-shadow-colored": "0 0 #0000",
+        "--tw-skew-x": "0",
+        "--tw-skew-y": "0",
+        "--tw-translate-x": "0",
+        "--tw-translate-y": "0"
+      },
+      "probes": {
+        "html": {
+          "_count": 1,
+          "_text": "Mpuza404Page not foundThis page isn’t available.Back to jobs",
+          "_class": "font-outfit",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "18.4px",
+          "letterSpacing": "-0.16px",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(0, 0, 0)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "body": {
+          "_count": 1,
+          "_text": "404Page not foundThis page isn’t available.Back to jobs{\"pro",
+          "_class": "font-outfit",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "22.001px",
+          "letterSpacing": "-0.14px",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgba(0, 0, 0, 0.85)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "h1": {
+          "_count": 1,
+          "_text": "Page not found",
+          "_class": "mpuza-not-found__title",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "29.6px",
+          "fontWeight": "700",
+          "fontStyle": "normal",
+          "lineHeight": "35.52px",
+          "letterSpacing": "-0.592px",
+          "color": "rgb(15, 23, 42)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(15, 23, 42)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "h2": null,
+        "h3": null,
+        "h4": null,
+        "h5": null,
+        "h6": null,
+        "p": {
+          "_count": 3,
+          "_text": "404",
+          "_class": "mpuza-not-found__code",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "11.52px",
+          "fontWeight": "700",
+          "fontStyle": "normal",
+          "lineHeight": "19.584px",
+          "letterSpacing": "2.304px",
+          "color": "rgb(53, 168, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "uppercase",
+          "outlineColor": "rgb(53, 168, 223)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "label": null,
+        "small": null,
+        "strong": null,
+        "em": null,
+        "i": null,
+        "input[text]": null,
+        "input[password]": null,
+        "input[checkbox]": null,
+        "select": null,
+        "textarea": null,
+        "button": null,
+        "button[submit]": null,
+        "a": {
+          "_count": 1,
+          "_text": "Back to jobs",
+          "_class": "mpuza-not-found__cta",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "14.72px",
+          "fontWeight": "700",
+          "fontStyle": "normal",
+          "lineHeight": "22.816px",
+          "letterSpacing": "-0.4px",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(53, 168, 223)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "10px",
+          "boxShadow": "rgba(53, 168, 223, 0.28) 0px 6px 16px 0px",
+          "padding": "11.2px 24px",
+          "textTransform": "none",
+          "outlineColor": "rgb(255, 255, 255)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "nav": null,
+        "header": null,
+        "footer": null,
+        "img[logo]": null,
+        "svg": null
+      },
+      "census": {
+        "fontFamily": {
+          "Outfit, sans-serif": {
+            "count": 13,
+            "examples": [
+              "html.font-outfit \"Mpuza404Page not foundThis page isn’t av\"",
+              "noscript",
+              "body.font-outfit \"404Page not foundThis page isn’t availab\"",
+              "div#__next \"404Page not foundThis page isn’t availab\""
+            ]
+          }
+        },
+        "fontSizeWeight": {
+          "11.52px / 700 / 19.584px": {
+            "count": 1,
+            "examples": [
+              "p.mpuza-not-found__code \"404\""
+            ]
+          },
+          "29.6px / 700 / 35.52px": {
+            "count": 1,
+            "examples": [
+              "h1.mpuza-not-found__title \"Page not found\""
+            ]
+          },
+          "15.2px / 400 / 22.8px": {
+            "count": 1,
+            "examples": [
+              "p.mpuza-not-found__copy \"This page isn’t available.\""
+            ]
+          },
+          "14.72px / 700 / 22.816px": {
+            "count": 1,
+            "examples": [
+              "a.mpuza-not-found__cta \"Back to jobs\""
+            ]
+          }
+        },
+        "color": {
+          "rgb(53, 168, 223)": {
+            "count": 1,
+            "examples": [
+              "p.mpuza-not-found__code \"404\""
+            ]
+          },
+          "rgb(15, 23, 42)": {
+            "count": 1,
+            "examples": [
+              "h1.mpuza-not-found__title \"Page not found\""
+            ]
+          },
+          "rgb(100, 116, 139)": {
+            "count": 1,
+            "examples": [
+              "p.mpuza-not-found__copy \"This page isn’t available.\""
+            ]
+          },
+          "rgb(255, 255, 255)": {
+            "count": 1,
+            "examples": [
+              "a.mpuza-not-found__cta \"Back to jobs\""
+            ]
+          }
+        },
+        "backgroundColor": {
+          "rgb(255, 255, 255)": {
+            "count": 1,
+            "examples": [
+              "body.font-outfit \"404Page not foundThis page isn’t availab\""
+            ]
+          },
+          "rgba(255, 255, 255, 0.86)": {
+            "count": 1,
+            "examples": [
+              "div.mpuza-not-found__card \"404Page not foundThis page isn’t availab\""
+            ]
+          },
+          "rgb(53, 168, 223)": {
+            "count": 1,
+            "examples": [
+              "a.mpuza-not-found__cta \"Back to jobs\""
+            ]
+          }
+        },
+        "borderColor": {
+          "1px solid rgba(53, 168, 223, 0.18)": {
+            "count": 1,
+            "examples": [
+              "div.mpuza-not-found__card \"404Page not foundThis page isn’t availab\""
+            ]
+          }
+        },
+        "borderRadius": {
+          "16px": {
+            "count": 1,
+            "examples": [
+              "div.mpuza-not-found__card \"404Page not foundThis page isn’t availab\""
+            ]
+          },
+          "10px": {
+            "count": 1,
+            "examples": [
+              "a.mpuza-not-found__cta \"Back to jobs\""
+            ]
+          }
+        },
+        "boxShadow": {
+          "rgba(15, 23, 42, 0.06) 0px 12px 40px 0px": {
+            "count": 1,
+            "examples": [
+              "div.mpuza-not-found__card \"404Page not foundThis page isn’t availab\""
+            ]
+          },
+          "rgba(53, 168, 223, 0.28) 0px 6px 16px 0px": {
+            "count": 1,
+            "examples": [
+              "a.mpuza-not-found__cta \"Back to jobs\""
+            ]
+          }
+        },
+        "transition": {
+          "background, transform, box-shadow 0.15s, 0.15s, 0.15s ease, ease, ease": {
+            "count": 1,
+            "examples": [
+              "a.mpuza-not-found__cta \"Back to jobs\""
+            ]
+          }
+        },
+        "letterSpacing": {
+          "-0.4px": {
+            "count": 2,
+            "examples": [
+              "p.mpuza-not-found__copy \"This page isn’t available.\"",
+              "a.mpuza-not-found__cta \"Back to jobs\""
+            ]
+          },
+          "2.304px": {
+            "count": 1,
+            "examples": [
+              "p.mpuza-not-found__code \"404\""
+            ]
+          },
+          "-0.592px": {
+            "count": 1,
+            "examples": [
+              "h1.mpuza-not-found__title \"Page not found\""
+            ]
+          }
+        }
+      },
+      "focusRing": null,
+      "assets": {
+        "title": "Mpuza",
+        "metaThemeColor": null,
+        "favicons": [
+          {
+            "rel": "manifest",
+            "href": "https://mpuza.com/manifest.json",
+            "type": "",
+            "sizes": ""
+          },
+          {
+            "rel": "icon",
+            "href": "https://mpuza.com/logo.png",
+            "type": "",
+            "sizes": ""
+          },
+          {
+            "rel": "icon",
+            "href": "https://mpuza.com/logo.png",
+            "type": "",
+            "sizes": ""
+          }
+        ],
+        "stylesheets": [
+          "https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap",
+          "https://mpuza.com/_next/static/css/be822bac34120702.css"
+        ],
+        "inlineSvgCount": 0,
+        "firstInlineSvg": null,
+        "images": []
+      },
+      "loadedFonts": [
+        {
+          "family": "Outfit",
+          "weight": "300",
+          "style": "normal",
+          "status": "unloaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "300",
+          "style": "normal",
+          "status": "unloaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "400",
+          "style": "normal",
+          "status": "unloaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "400",
+          "style": "normal",
+          "status": "loaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "500",
+          "style": "normal",
+          "status": "unloaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "500",
+          "style": "normal",
+          "status": "unloaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "600",
+          "style": "normal",
+          "status": "unloaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "600",
+          "style": "normal",
+          "status": "loaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "700",
+          "style": "normal",
+          "status": "unloaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "700",
+          "style": "normal",
+          "status": "loaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "800",
+          "style": "normal",
+          "status": "unloaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "800",
+          "style": "normal",
+          "status": "unloaded"
+        }
+      ],
+      "textSample": "404\n\nPage not found\n\nThis page isn’t available.\n\nBack to jobs",
+      "mobileProbes": {
+        "html": {
+          "_count": 1,
+          "_text": "Mpuza404Page not foundThis page isn’t available.Back to jobs",
+          "_class": "font-outfit",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "18.4px",
+          "letterSpacing": "-0.16px",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(0, 0, 0)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "body": {
+          "_count": 1,
+          "_text": "404Page not foundThis page isn’t available.Back to jobs{\"pro",
+          "_class": "font-outfit",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "22.001px",
+          "letterSpacing": "-0.14px",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgba(0, 0, 0, 0.85)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "h1": {
+          "_count": 1,
+          "_text": "Page not found",
+          "_class": "mpuza-not-found__title",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "24px",
+          "fontWeight": "700",
+          "fontStyle": "normal",
+          "lineHeight": "28.8px",
+          "letterSpacing": "-0.48px",
+          "color": "rgb(15, 23, 42)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(15, 23, 42)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "h2": null,
+        "h3": null,
+        "h4": null,
+        "h5": null,
+        "h6": null,
+        "p": {
+          "_count": 3,
+          "_text": "404",
+          "_class": "mpuza-not-found__code",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "11.52px",
+          "fontWeight": "700",
+          "fontStyle": "normal",
+          "lineHeight": "19.584px",
+          "letterSpacing": "2.304px",
+          "color": "rgb(53, 168, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "uppercase",
+          "outlineColor": "rgb(53, 168, 223)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "label": null,
+        "small": null,
+        "strong": null,
+        "em": null,
+        "i": null,
+        "input[text]": null,
+        "input[password]": null,
+        "input[checkbox]": null,
+        "select": null,
+        "textarea": null,
+        "button": null,
+        "button[submit]": null,
+        "a": {
+          "_count": 1,
+          "_text": "Back to jobs",
+          "_class": "mpuza-not-found__cta",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "14.72px",
+          "fontWeight": "700",
+          "fontStyle": "normal",
+          "lineHeight": "22.816px",
+          "letterSpacing": "-0.4px",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(53, 168, 223)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "10px",
+          "boxShadow": "rgba(53, 168, 223, 0.28) 0px 6px 16px 0px",
+          "padding": "11.2px 24px",
+          "textTransform": "none",
+          "outlineColor": "rgb(255, 255, 255)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "nav": null,
+        "header": null,
+        "footer": null,
+        "img[logo]": null,
+        "svg": null
+      },
+      "network": [
+        {
+          "type": "document",
+          "status": 404,
+          "url": "https://mpuza.com/signin",
+          "ct": "text/html; charset=utf-8"
+        },
+        {
+          "type": "stylesheet",
+          "status": 200,
+          "url": "https://mpuza.com/_next/static/css/be822bac34120702.css",
+          "ct": "text/css; charset=UTF-8"
+        },
+        {
+          "type": "stylesheet",
+          "status": 200,
+          "url": "https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap",
+          "ct": "text/css; charset=utf-8"
+        },
+        {
+          "type": "font",
+          "status": 200,
+          "url": "https://fonts.gstatic.com/s/outfit/v15/QGYvz_MVcBeNP4NJtEtq.woff2",
+          "ct": "font/woff2"
+        },
+        {
+          "type": "other",
+          "status": 200,
+          "url": "https://mpuza.com/logo.png",
+          "ct": "image/png"
+        },
+        {
+          "type": "fetch",
+          "status": 200,
+          "url": "https://mpuza.com/_next/static/css/15cbae759d1218d5.css",
+          "ct": "text/css; charset=UTF-8"
+        },
+        {
+          "type": "other",
+          "status": 200,
+          "url": "https://mpuza.com/logo.png",
+          "ct": "image/png"
+        }
+      ],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 404 ()"
+      ]
+    },
+    "create-company-page": {
+      "path": "/m/create-company-page",
+      "url": "https://mpuza.com/m/create-company-page",
+      "status": 200,
+      "finalUrl": "https://mpuza.com/login",
+      "customProps": {
+        "--antd-wave-shadow-color": "#1890ff",
+        "--bs-black": "#000",
+        "--bs-black-rgb": "0,0,0",
+        "--bs-blue": "#0d6efd",
+        "--bs-body-bg": "#fff",
+        "--bs-body-bg-rgb": "255,255,255",
+        "--bs-body-color": "#212529",
+        "--bs-body-color-rgb": "33,37,41",
+        "--bs-body-font-family": "system-ui,-apple-system,\"Segoe UI\",Roboto,\"Helvetica Neue\",\"Noto Sans\",\"Liberation Sans\",Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"",
+        "--bs-body-font-size": "1rem",
+        "--bs-body-font-weight": "400",
+        "--bs-body-line-height": "1.5",
+        "--bs-border-color": "#dee2e6",
+        "--bs-border-color-translucent": "rgba(0,0,0,0.175)",
+        "--bs-border-radius": "0.375rem",
+        "--bs-border-radius-2xl": "2rem",
+        "--bs-border-radius-lg": "0.5rem",
+        "--bs-border-radius-pill": "50rem",
+        "--bs-border-radius-sm": "0.25rem",
+        "--bs-border-radius-xl": "1rem",
+        "--bs-border-radius-xxl": "2rem",
+        "--bs-border-style": "solid",
+        "--bs-border-width": "1px",
+        "--bs-box-shadow": "0 0.5rem 1rem rgba(0,0,0,0.15)",
+        "--bs-box-shadow-inset": "inset 0 1px 2px rgba(0,0,0,0.075)",
+        "--bs-box-shadow-lg": "0 1rem 3rem rgba(0,0,0,0.175)",
+        "--bs-box-shadow-sm": "0 0.125rem 0.25rem rgba(0,0,0,0.075)",
+        "--bs-breakpoint-lg": "992px",
+        "--bs-breakpoint-md": "768px",
+        "--bs-breakpoint-sm": "576px",
+        "--bs-breakpoint-xl": "1200px",
+        "--bs-breakpoint-xs": "0",
+        "--bs-breakpoint-xxl": "1400px",
+        "--bs-carousel-caption-color": "#fff",
+        "--bs-carousel-indicator-active-bg": "#fff",
+        "--bs-code-color": "#d63384",
+        "--bs-cyan": "#0dcaf0",
+        "--bs-danger": "#dc3545",
+        "--bs-danger-bg-subtle": "#f8d7da",
+        "--bs-danger-border-subtle": "#f1aeb5",
+        "--bs-danger-rgb": "220,53,69",
+        "--bs-danger-text-emphasis": "#58151c",
+        "--bs-dark": "#212529",
+        "--bs-dark-bg-subtle": "#ced4da",
+        "--bs-dark-border-subtle": "#adb5bd",
+        "--bs-dark-rgb": "33,37,41",
+        "--bs-dark-text-emphasis": "#495057",
+        "--bs-emphasis-color": "#000",
+        "--bs-emphasis-color-rgb": "0,0,0",
+        "--bs-focus-ring-color": "rgba(13,110,253,0.25)",
+        "--bs-focus-ring-opacity": "0.25",
+        "--bs-focus-ring-width": "0.25rem",
+        "--bs-font-monospace": "SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New\",monospace",
+        "--bs-font-sans-serif": "system-ui,-apple-system,\"Segoe UI\",Roboto,\"Helvetica Neue\",\"Noto Sans\",\"Liberation Sans\",Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"",
+        "--bs-form-invalid-border-color": "#dc3545",
+        "--bs-form-invalid-color": "#dc3545",
+        "--bs-form-valid-border-color": "#198754",
+        "--bs-form-valid-color": "#198754",
+        "--bs-gradient": "linear-gradient(180deg,rgba(255,255,255,0.15),rgba(255,255,255,0))",
+        "--bs-gray": "#6c757d",
+        "--bs-gray-100": "#f8f9fa",
+        "--bs-gray-200": "#e9ecef",
+        "--bs-gray-300": "#dee2e6",
+        "--bs-gray-400": "#ced4da",
+        "--bs-gray-500": "#adb5bd",
+        "--bs-gray-600": "#6c757d",
+        "--bs-gray-700": "#495057",
+        "--bs-gray-800": "#343a40",
+        "--bs-gray-900": "#212529",
+        "--bs-gray-dark": "#343a40",
+        "--bs-green": "#198754",
+        "--bs-heading-font-family": "\"Outfit\",sans-serif",
+        "--bs-highlight-bg": "#fff3cd",
+        "--bs-highlight-color": "#212529",
+        "--bs-indigo": "#6610f2",
+        "--bs-info": "#0dcaf0",
+        "--bs-info-bg-subtle": "#cff4fc",
+        "--bs-info-border-subtle": "#9eeaf9",
+        "--bs-info-rgb": "13,202,240",
+        "--bs-info-text-emphasis": "#055160",
+        "--bs-light": "#f8f9fa",
+        "--bs-light-bg-subtle": "#fcfcfd",
+        "--bs-light-border-subtle": "#e9ecef",
+        "--bs-light-rgb": "248,249,250",
+        "--bs-light-text-emphasis": "#495057",
+        "--bs-link-color": "#0d6efd",
+        "--bs-link-color-rgb": "13,110,253",
+        "--bs-link-decoration": "underline",
+        "--bs-link-hover-color": "#0a58ca",
+        "--bs-link-hover-color-rgb": "10,88,202",
+        "--bs-orange": "#fd7e14",
+        "--bs-pink": "#d63384",
+        "--bs-primary": "#0d6efd",
+        "--bs-primary-bg-subtle": "#cfe2ff",
+        "--bs-primary-border-subtle": "#9ec5fe",
+        "--bs-primary-rgb": "13,110,253",
+        "--bs-primary-text-emphasis": "#052c65",
+        "--bs-purple": "#6f42c1",
+        "--bs-red": "#dc3545",
+        "--bs-secondary": "#6c757d",
+        "--bs-secondary-bg": "#e9ecef",
+        "--bs-secondary-bg-rgb": "233,236,239",
+        "--bs-secondary-bg-subtle": "#e2e3e5",
+        "--bs-secondary-border-subtle": "#c4c8cb",
+        "--bs-secondary-color": "rgba(33,37,41,0.75)",
+        "--bs-secondary-color-rgb": "33,37,41",
+        "--bs-secondary-rgb": "108,117,125",
+        "--bs-secondary-text-emphasis": "#2b2f32",
+        "--bs-success": "#198754",
+        "--bs-success-bg-subtle": "#d1e7dd",
+        "--bs-success-border-subtle": "#a3cfbb",
+        "--bs-success-rgb": "25,135,84",
+        "--bs-success-text-emphasis": "#0a3622",
+        "--bs-teal": "#20c997",
+        "--bs-tertiary-bg": "#f8f9fa",
+        "--bs-tertiary-bg-rgb": "248,249,250",
+        "--bs-tertiary-color": "rgba(33,37,41,0.5)",
+        "--bs-tertiary-color-rgb": "33,37,41",
+        "--bs-warning": "#ffc107",
+        "--bs-warning-bg-subtle": "#fff3cd",
+        "--bs-warning-border-subtle": "#ffe69c",
+        "--bs-warning-rgb": "255,193,7",
+        "--bs-warning-text-emphasis": "#664d03",
+        "--bs-white": "#fff",
+        "--bs-white-rgb": "255,255,255",
+        "--bs-yellow": "#ffc107",
+        "--font-outfit": "\"Outfit\",sans-serif",
+        "--mpuza-home-gap": "12px",
+        "--mpuza-home-left": "260px",
+        "--mpuza-home-right": "380px",
+        "--mpuza-page-gutter": "clamp(1.75rem,3.5vw,3rem)",
+        "--mpuza-radius-md": "0.375rem",
+        "--scroll-bar": "0",
+        "--tw-border-spacing-x": "0",
+        "--tw-border-spacing-y": "0",
+        "--tw-ring-color": "rgb(59 130 246/0.5)",
+        "--tw-ring-offset-color": "#fff",
+        "--tw-ring-offset-shadow": "0 0 #0000",
+        "--tw-ring-offset-width": "0px",
+        "--tw-ring-shadow": "0 0 #0000",
+        "--tw-rotate": "0",
+        "--tw-scale-x": "1",
+        "--tw-scale-y": "1",
+        "--tw-scroll-snap-strictness": "proximity",
+        "--tw-shadow": "0 0 #0000",
+        "--tw-shadow-colored": "0 0 #0000",
+        "--tw-skew-x": "0",
+        "--tw-skew-y": "0",
+        "--tw-translate-x": "0",
+        "--tw-translate-y": "0"
+      },
+      "probes": {
+        "html": {
+          "_count": 1,
+          "_text": ".anticon { display: inline-flex; alignItems: center; color: ",
+          "_class": "font-outfit",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "18.4px",
+          "letterSpacing": "-0.16px",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(0, 0, 0)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "body": {
+          "_count": 1,
+          "_text": "Welcome Back!Sign inConnect with the World Professionally.Ne",
+          "_class": "font-outfit",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "22.001px",
+          "letterSpacing": "-0.14px",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgba(0, 0, 0, 0.85)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "h1": {
+          "_count": 1,
+          "_text": "Welcome Back!",
+          "_class": "mpuza_auth_title",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "21.6px",
+          "fontWeight": "500",
+          "fontStyle": "normal",
+          "lineHeight": "25.92px",
+          "letterSpacing": "-0.432px",
+          "color": "rgb(17, 24, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(17, 24, 39)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "h2": {
+          "_count": 1,
+          "_text": "Sign in",
+          "_class": "mpuza_auth_subtitle",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "15.2px",
+          "fontWeight": "500",
+          "fontStyle": "normal",
+          "lineHeight": "18.24px",
+          "letterSpacing": "-0.304px",
+          "color": "rgb(55, 65, 81)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(55, 65, 81)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "h3": null,
+        "h4": null,
+        "h5": null,
+        "h6": null,
+        "p": {
+          "_count": 2,
+          "_text": "Connect with the World Professionally.",
+          "_class": "mpuza_auth_description",
+          "fontFamily": "Outfit, sans-serif, Outfit, sans-serif",
+          "fontSize": "13.6px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "23.12px",
+          "letterSpacing": "-0.4px",
+          "color": "rgb(107, 114, 128)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(107, 114, 128)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "label": null,
+        "small": null,
+        "strong": null,
+        "em": null,
+        "i": null,
+        "input[text]": {
+          "_count": 1,
+          "_text": "",
+          "_class": "ant-input",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "300",
+          "fontStyle": "normal",
+          "lineHeight": "18.858px",
+          "letterSpacing": "-0.12px",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "none",
+          "borderTopColor": "rgba(0, 0, 0, 0.85)",
+          "borderRadius": "2px",
+          "boxShadow": "none",
+          "padding": "4px 16px",
+          "textTransform": "none",
+          "outlineColor": "rgba(0, 0, 0, 0.85)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "input[password]": null,
+        "input[checkbox]": null,
+        "select": null,
+        "textarea": null,
+        "button": {
+          "_count": 2,
+          "_text": "",
+          "_class": "card_top cursor-pointer",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "22.001px",
+          "letterSpacing": "-0.4px",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "url(\"https://mpuza.com/logo.png\")",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "none",
+          "borderTopColor": "rgba(0, 0, 0, 0.85)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgba(0, 0, 0, 0.85)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "button[submit]": {
+          "_count": 1,
+          "_text": "Next",
+          "_class": "ant-btn ant-btn-primary btn_dark_blue btn_full mpuza_auth_primary_btn",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "15.2px",
+          "fontWeight": "700",
+          "fontStyle": "normal",
+          "lineHeight": "23.8868px",
+          "letterSpacing": "-0.152px",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(53, 168, 223)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "none",
+          "borderTopColor": "rgb(255, 255, 255)",
+          "borderRadius": "999px",
+          "boxShadow": "rgba(0, 0, 0, 0.043) 0px 2px 0px 0px",
+          "padding": "0px 32px",
+          "textTransform": "none",
+          "outlineColor": "rgb(255, 255, 255)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "a": {
+          "_count": 4,
+          "_text": "Continue with Google",
+          "_class": "mpuza-google-btn",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "22.001px",
+          "letterSpacing": "-0.4px",
+          "color": "rgb(14, 49, 76)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "backgroundImage": "none",
+          "borderTopWidth": "1px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(218, 220, 224)",
+          "borderRadius": "6px",
+          "boxShadow": "rgba(60, 64, 67, 0.08) 0px 1px 2px 0px",
+          "padding": "8.8px 16px",
+          "textTransform": "none",
+          "outlineColor": "rgb(14, 49, 76)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "nav": null,
+        "header": null,
+        "footer": null,
+        "img[logo]": null,
+        "svg": {
+          "_count": 3,
+          "_text": "",
+          "_class": "",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "25.144px",
+          "letterSpacing": "-0.12px",
+          "color": "rgb(53, 168, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(53, 168, 223)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        }
+      },
+      "census": {
+        "fontFamily": {
+          "Outfit, sans-serif": {
+            "count": 54,
+            "examples": [
+              "html.font-outfit \".anticon { display: inline-flex; alignIt\"",
+              "noscript",
+              "body.font-outfit \"Welcome Back!Sign inConnect with the Wor\"",
+              "div#__next \"Welcome Back!Sign inConnect with the Wor\""
+            ]
+          },
+          "Outfit, sans-serif, Outfit, sans-serif": {
+            "count": 2,
+            "examples": [
+              "div.mpuza_auth_header \"Welcome Back!Sign inConnect with the Wor\"",
+              "p.mpuza_auth_description \"Connect with the World Professionally.\""
+            ]
+          }
+        },
+        "fontSizeWeight": {
+          "15.2px / 500 / 18.24px": {
+            "count": 3,
+            "examples": [
+              "h2.mpuza_auth_subtitle \"Sign in\"",
+              "span.mpuza-google-btn-label \"Continue with Google\"",
+              "span.mpuza-github-btn-label \"Sign in with GitHub\""
+            ]
+          },
+          "14.4px / 600 / 22.6296px": {
+            "count": 2,
+            "examples": [
+              "a.mpuza_auth_link \"Create Account\"",
+              "a.mpuza_auth_link \"Home\""
+            ]
+          },
+          "21.6px / 500 / 25.92px": {
+            "count": 1,
+            "examples": [
+              "h1.mpuza_auth_title \"Welcome Back!\""
+            ]
+          },
+          "13.6px / 400 / 23.12px": {
+            "count": 1,
+            "examples": [
+              "p.mpuza_auth_description \"Connect with the World Professionally.\""
+            ]
+          },
+          "15.2px / 700 / 23.8868px": {
+            "count": 1,
+            "examples": [
+              "span \"Next\""
+            ]
+          },
+          "12.8px / 500 / 20.1152px": {
+            "count": 1,
+            "examples": [
+              "span \"Or\""
+            ]
+          },
+          "14px / 400 / 23.8px": {
+            "count": 1,
+            "examples": [
+              "p#__next-route-announcer__ \"Mpuza\""
+            ]
+          }
+        },
+        "color": {
+          "rgb(107, 114, 128)": {
+            "count": 2,
+            "examples": [
+              "p.mpuza_auth_description \"Connect with the World Professionally.\"",
+              "span \"Or\""
+            ]
+          },
+          "rgb(60, 64, 67)": {
+            "count": 2,
+            "examples": [
+              "span.mpuza-google-btn-label \"Continue with Google\"",
+              "span.mpuza-github-btn-label \"Sign in with GitHub\""
+            ]
+          },
+          "rgb(53, 168, 223)": {
+            "count": 2,
+            "examples": [
+              "a.mpuza_auth_link \"Create Account\"",
+              "a.mpuza_auth_link \"Home\""
+            ]
+          },
+          "rgb(17, 24, 39)": {
+            "count": 1,
+            "examples": [
+              "h1.mpuza_auth_title \"Welcome Back!\""
+            ]
+          },
+          "rgb(55, 65, 81)": {
+            "count": 1,
+            "examples": [
+              "h2.mpuza_auth_subtitle \"Sign in\""
+            ]
+          },
+          "rgb(255, 255, 255)": {
+            "count": 1,
+            "examples": [
+              "span \"Next\""
+            ]
+          },
+          "rgb(96, 132, 164)": {
+            "count": 1,
+            "examples": [
+              "p#__next-route-announcer__ \"Mpuza\""
+            ]
+          }
+        },
+        "backgroundColor": {
+          "rgb(255, 255, 255)": {
+            "count": 6,
+            "examples": [
+              "body.font-outfit \"Welcome Back!Sign inConnect with the Wor\"",
+              "div.ant-card.ant-card-bordered.mpuza_card \"Welcome Back!Sign inConnect with the Wor\"",
+              "span.ant-input-affix-wrapper.mpuza_input",
+              "input#Login_email.ant-input"
+            ]
+          },
+          "rgb(247, 250, 252)": {
+            "count": 3,
+            "examples": [
+              "section.ant-layout.mpuza-app-layout \"Welcome Back!Sign inConnect with the Wor\"",
+              "main.ant-layout-content.mpuza-app-content \"Welcome Back!Sign inConnect with the Wor\"",
+              "div.mpuza_auth \"Welcome Back!Sign inConnect with the Wor\""
+            ]
+          },
+          "rgb(53, 168, 223)": {
+            "count": 1,
+            "examples": [
+              "button.ant-btn.ant-btn-primary.btn_dark_blue \"Next\""
+            ]
+          }
+        },
+        "borderColor": {
+          "1px solid rgb(218, 220, 224)": {
+            "count": 2,
+            "examples": [
+              "a.mpuza-google-btn \"Continue with Google\"",
+              "a.mpuza-github-btn \"Sign in with GitHub\""
+            ]
+          },
+          "1px solid rgb(240, 240, 240)": {
+            "count": 1,
+            "examples": [
+              "div.ant-card.ant-card-bordered.mpuza_card \"Welcome Back!Sign inConnect with the Wor\""
+            ]
+          },
+          "1px solid rgb(196, 196, 196)": {
+            "count": 1,
+            "examples": [
+              "span.ant-input-affix-wrapper.mpuza_input"
+            ]
+          }
+        },
+        "borderRadius": {
+          "6px": {
+            "count": 3,
+            "examples": [
+              "span.ant-input-affix-wrapper.mpuza_input",
+              "a.mpuza-google-btn \"Continue with Google\"",
+              "a.mpuza-github-btn \"Sign in with GitHub\""
+            ]
+          },
+          "12px": {
+            "count": 1,
+            "examples": [
+              "div.ant-card.ant-card-bordered.mpuza_card \"Welcome Back!Sign inConnect with the Wor\""
+            ]
+          },
+          "2px": {
+            "count": 1,
+            "examples": [
+              "input#Login_email.ant-input"
+            ]
+          },
+          "999px": {
+            "count": 1,
+            "examples": [
+              "button.ant-btn.ant-btn-primary.btn_dark_blue \"Next\""
+            ]
+          }
+        },
+        "boxShadow": {
+          "rgba(60, 64, 67, 0.08) 0px 1px 2px 0px": {
+            "count": 2,
+            "examples": [
+              "a.mpuza-google-btn \"Continue with Google\"",
+              "a.mpuza-github-btn \"Sign in with GitHub\""
+            ]
+          },
+          "rgba(16, 24, 40, 0.08) 0px 10px 30px 0px": {
+            "count": 1,
+            "examples": [
+              "div.ant-card.ant-card-bordered.mpuza_card \"Welcome Back!Sign inConnect with the Wor\""
+            ]
+          },
+          "rgba(0, 0, 0, 0.043) 0px 2px 0px 0px": {
+            "count": 1,
+            "examples": [
+              "button.ant-btn.ant-btn-primary.btn_dark_blue \"Next\""
+            ]
+          }
+        },
+        "transition": {
+          "all 0.3s ease": {
+            "count": 2,
+            "examples": [
+              "span.ant-input-affix-wrapper.mpuza_input",
+              "input#Login_email.ant-input"
+            ]
+          },
+          "background, box-shadow, border-color 0.2s, 0.2s, 0.2s ease, ease, ease": {
+            "count": 2,
+            "examples": [
+              "a.mpuza-google-btn \"Continue with Google\"",
+              "a.mpuza-github-btn \"Sign in with GitHub\""
+            ]
+          },
+          "color 0.3s ease": {
+            "count": 2,
+            "examples": [
+              "a.mpuza_auth_link \"Create Account\"",
+              "a.mpuza_auth_link \"Home\""
+            ]
+          },
+          "all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1)": {
+            "count": 1,
+            "examples": [
+              "button.ant-btn.ant-btn-primary.btn_dark_blue \"Next\""
+            ]
+          }
+        },
+        "letterSpacing": {
+          "-0.4px": {
+            "count": 4,
+            "examples": [
+              "p.mpuza_auth_description \"Connect with the World Professionally.\"",
+              "span \"Or\"",
+              "a.mpuza_auth_link \"Create Account\"",
+              "a.mpuza_auth_link \"Home\""
+            ]
+          },
+          "0.152px": {
+            "count": 2,
+            "examples": [
+              "span.mpuza-google-btn-label \"Continue with Google\"",
+              "span.mpuza-github-btn-label \"Sign in with GitHub\""
+            ]
+          },
+          "-0.432px": {
+            "count": 1,
+            "examples": [
+              "h1.mpuza_auth_title \"Welcome Back!\""
+            ]
+          },
+          "-0.304px": {
+            "count": 1,
+            "examples": [
+              "h2.mpuza_auth_subtitle \"Sign in\""
+            ]
+          },
+          "-0.152px": {
+            "count": 1,
+            "examples": [
+              "span \"Next\""
+            ]
+          },
+          "-0.14px": {
+            "count": 1,
+            "examples": [
+              "p#__next-route-announcer__ \"Mpuza\""
+            ]
+          }
+        }
+      },
+      "focusRing": {
+        "blurred": {
+          "tag": "input",
+          "outline": "0px none rgba(0, 0, 0, 0.85)",
+          "outlineOffset": "0px",
+          "boxShadow": "none",
+          "borderColor": "rgba(0, 0, 0, 0.85)",
+          "borderWidth": "0px"
+        },
+        "focused": {
+          "tag": "input",
+          "outline": "0px none rgba(0, 0, 0, 0.85)",
+          "outlineOffset": "2.9375px",
+          "boxShadow": "none",
+          "borderColor": "rgba(52, 166, 220, 0.996)",
+          "borderWidth": "0px"
+        }
+      },
+      "assets": {
+        "title": "Login",
+        "metaThemeColor": null,
+        "favicons": [
+          {
+            "rel": "manifest",
+            "href": "https://mpuza.com/manifest.json",
+            "type": "",
+            "sizes": ""
+          },
+          {
+            "rel": "icon",
+            "href": "https://mpuza.com/logo.png",
+            "type": "",
+            "sizes": ""
+          },
+          {
+            "rel": "icon",
+            "href": "https://mpuza.com/logo.png",
+            "type": "",
+            "sizes": ""
+          }
+        ],
+        "stylesheets": [
+          "https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap",
+          "https://mpuza.com/_next/static/css/be822bac34120702.css"
+        ],
+        "inlineSvgCount": 3,
+        "firstInlineSvg": "<svg stroke=\"currentColor\" fill=\"currentColor\" stroke-width=\"0\" viewBox=\"0 0 1024 1024\" height=\"1em\" width=\"1em\" xmlns=\"http://www.w3.org/2000/svg\" style=\"color: rgb(53, 168, 223); font-size: 1rem;\"><path d=\"M928 160H96c-17.7 0-32 14.3-32 32v640c0 17.7 14.3 32 32 32h832c17.7 0 32-14.3 32-32V192c0-17.7-14.3-32-32-32zm-40 110.8V792H136V270.8l-27.6-21.5 39.3-50.5 42.8 33.3h643.1l42.8-33.3 39.3 50.5-27.7 21.5zM833.6 232L512 482 190.4 232l-42.8-33.3-39.3 50.5 27.6 21.5 341.6 265.6a55.99 55.99 0 0 0 68.7 0L888 270.8l27.6-21.5-39.3-50.5-42.7 33.2z\"></path></svg>",
+        "images": []
+      },
+      "loadedFonts": [
+        {
+          "family": "Outfit",
+          "weight": "300",
+          "style": "normal",
+          "status": "unloaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "300",
+          "style": "normal",
+          "status": "loaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "400",
+          "style": "normal",
+          "status": "unloaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "400",
+          "style": "normal",
+          "status": "loaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "500",
+          "style": "normal",
+          "status": "unloaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "500",
+          "style": "normal",
+          "status": "loaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "600",
+          "style": "normal",
+          "status": "unloaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "600",
+          "style": "normal",
+          "status": "loaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "700",
+          "style": "normal",
+          "status": "unloaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "700",
+          "style": "normal",
+          "status": "loaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "800",
+          "style": "normal",
+          "status": "unloaded"
+        },
+        {
+          "family": "Outfit",
+          "weight": "800",
+          "style": "normal",
+          "status": "unloaded"
+        }
+      ],
+      "textSample": "Welcome Back!\nSign in\n\nConnect with the World Professionally.\n\nNext\nOr\nContinue with Google\nSign in with GitHub\nCreate Account\nHome\n\nMpuza",
+      "mobileProbes": {
+        "html": {
+          "_count": 1,
+          "_text": ".anticon { display: inline-flex; alignItems: center; color: ",
+          "_class": "font-outfit",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "18.4px",
+          "letterSpacing": "-0.16px",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(0, 0, 0)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "body": {
+          "_count": 1,
+          "_text": "Welcome Back!Sign inConnect with the World Professionally.Ne",
+          "_class": "font-outfit",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "22.001px",
+          "letterSpacing": "-0.14px",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgba(0, 0, 0, 0.85)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "h1": {
+          "_count": 1,
+          "_text": "Welcome Back!",
+          "_class": "mpuza_auth_title",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "18.4px",
+          "fontWeight": "500",
+          "fontStyle": "normal",
+          "lineHeight": "22.08px",
+          "letterSpacing": "-0.368px",
+          "color": "rgb(17, 24, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(17, 24, 39)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "h2": {
+          "_count": 1,
+          "_text": "Sign in",
+          "_class": "mpuza_auth_subtitle",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "15.2px",
+          "fontWeight": "500",
+          "fontStyle": "normal",
+          "lineHeight": "18.24px",
+          "letterSpacing": "-0.304px",
+          "color": "rgb(55, 65, 81)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(55, 65, 81)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "h3": null,
+        "h4": null,
+        "h5": null,
+        "h6": null,
+        "p": {
+          "_count": 2,
+          "_text": "Connect with the World Professionally.",
+          "_class": "mpuza_auth_description",
+          "fontFamily": "Outfit, sans-serif, Outfit, sans-serif",
+          "fontSize": "13.6px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "23.12px",
+          "letterSpacing": "-0.4px",
+          "color": "rgb(107, 114, 128)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(107, 114, 128)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "label": null,
+        "small": null,
+        "strong": null,
+        "em": null,
+        "i": null,
+        "input[text]": {
+          "_count": 1,
+          "_text": "",
+          "_class": "ant-input",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "300",
+          "fontStyle": "normal",
+          "lineHeight": "22.001px",
+          "letterSpacing": "-0.14px",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "none",
+          "borderTopColor": "rgba(0, 0, 0, 0.85)",
+          "borderRadius": "2px",
+          "boxShadow": "none",
+          "padding": "4px 16px",
+          "textTransform": "none",
+          "outlineColor": "rgba(0, 0, 0, 0.85)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "input[password]": null,
+        "input[checkbox]": null,
+        "select": null,
+        "textarea": null,
+        "button": {
+          "_count": 2,
+          "_text": "",
+          "_class": "card_top cursor-pointer",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "22.001px",
+          "letterSpacing": "-0.4px",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "url(\"https://mpuza.com/logo.png\")",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "none",
+          "borderTopColor": "rgba(0, 0, 0, 0.85)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgba(0, 0, 0, 0.85)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "button[submit]": {
+          "_count": 1,
+          "_text": "Next",
+          "_class": "ant-btn ant-btn-primary btn_dark_blue btn_full mpuza_auth_primary_btn",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "15.2px",
+          "fontWeight": "700",
+          "fontStyle": "normal",
+          "lineHeight": "23.8868px",
+          "letterSpacing": "-0.152px",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(53, 168, 223)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "none",
+          "borderTopColor": "rgb(255, 255, 255)",
+          "borderRadius": "999px",
+          "boxShadow": "rgba(0, 0, 0, 0.043) 0px 2px 0px 0px",
+          "padding": "0px 32px",
+          "textTransform": "none",
+          "outlineColor": "rgb(255, 255, 255)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "a": {
+          "_count": 4,
+          "_text": "Continue with Google",
+          "_class": "mpuza-google-btn",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "22.001px",
+          "letterSpacing": "-0.4px",
+          "color": "rgb(14, 49, 76)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "backgroundImage": "none",
+          "borderTopWidth": "1px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(218, 220, 224)",
+          "borderRadius": "6px",
+          "boxShadow": "rgba(60, 64, 67, 0.08) 0px 1px 2px 0px",
+          "padding": "8.8px 16px",
+          "textTransform": "none",
+          "outlineColor": "rgb(14, 49, 76)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        },
+        "nav": null,
+        "header": null,
+        "footer": null,
+        "img[logo]": null,
+        "svg": {
+          "_count": 3,
+          "_text": "",
+          "_class": "",
+          "fontFamily": "Outfit, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "lineHeight": "25.144px",
+          "letterSpacing": "-0.14px",
+          "color": "rgb(53, 168, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "borderTopWidth": "0px",
+          "borderTopStyle": "solid",
+          "borderTopColor": "rgb(229, 231, 235)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "padding": "0px",
+          "textTransform": "none",
+          "outlineColor": "rgb(53, 168, 223)",
+          "outlineWidth": "0px",
+          "outlineStyle": "none"
+        }
+      },
+      "network": [
+        {
+          "type": "document",
+          "status": 200,
+          "url": "https://mpuza.com/m/create-company-page",
+          "ct": "text/html; charset=utf-8"
+        },
+        {
+          "type": "stylesheet",
+          "status": 200,
+          "url": "https://mpuza.com/_next/static/css/15cbae759d1218d5.css",
+          "ct": "text/css; charset=UTF-8"
+        },
+        {
+          "type": "stylesheet",
+          "status": 200,
+          "url": "https://mpuza.com/_next/static/css/be822bac34120702.css",
+          "ct": "text/css; charset=UTF-8"
+        },
+        {
+          "type": "stylesheet",
+          "status": 200,
+          "url": "https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap",
+          "ct": "text/css; charset=utf-8"
+        },
+        {
+          "type": "font",
+          "status": 200,
+          "url": "https://fonts.gstatic.com/s/outfit/v15/QGYvz_MVcBeNP4NJtEtq.woff2",
+          "ct": "font/woff2"
+        },
+        {
+          "type": "image",
+          "status": 200,
+          "url": "https://mpuza.com/logo.png",
+          "ct": "image/png"
+        },
+        {
+          "type": "other",
+          "status": 200,
+          "url": "https://mpuza.com/logo.png",
+          "ct": "image/png"
+        },
+        {
+          "type": "other",
+          "status": 200,
+          "url": "https://mpuza.com/logo.png",
+          "ct": "image/png"
+        }
+      ],
+      "consoleErrors": []
+    }
+  }
+}
